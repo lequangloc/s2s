@@ -1,9 +1,0 @@
-n__bnd:={[self_65,n_66,sm_67,bg_68,idx_69] -> [] -> []: (0=0 && (0=0 && self_65<=0 && n_66=0 && idx_69=0 ||  (exists (bg_44: (exists (sm_43: (exists (flted_15_45: (exists (p: (exists (d:sm_67<=d && d<bg_68 && n__bnd(p,flted_15_45,sm_43,bg_44,idx_64) && sm_43=sm_67 && bg_44=bg_68 && 1+flted_15_45=n_66 && self_65>0 && idx_69=idx_64+1)) )) )) )) )) ))
-};
-bottomupgen([n__bnd], [1], SimHeur);n__bnd:={[self_65,n_66,sm_67,bg_68,idx_69] -> [] -> []: (0=0 && (0=0 && self_65<=0 && n_66=0 && idx_69=0 ||  (exists (bg_44: (exists (sm_43: (exists (flted_15_45: (exists (p: (exists (d:sm_67<=d && d<bg_68 && n__bnd(p,flted_15_45,sm_43,bg_44,idx_64) && sm_43=sm_67 && bg_44=bg_68 && 1+flted_15_45=n_66 && self_65>0 && idx_69=idx_64+1)) )) )) )) )) ))
-};
-bottomupgen([n__bnd], [1], SimHeur);n__bnd:={[self_65,n_66,sm_67,bg_68,idx_69] -> [] -> []: (0=0 && (0=0 && self_65<=0 && n_66=0 && idx_69=0 ||  (exists (bg_44: (exists (sm_43: (exists (flted_15_45: (exists (p: (exists (d:sm_67<=d && d<bg_68 && n__bnd(p,flted_15_45,sm_43,bg_44,idx_64) && sm_43=sm_67 && bg_44=bg_68 && 1+flted_15_45=n_66 && self_65>0 && idx_69=idx_64+1)) )) )) )) )) ))
-};
-bottomupgen([n__bnd], [1], SimHeur);n__bnd:={[self_65,n_66,sm_67,bg_68,idx_69] -> [] -> []: (0=0 && (0=0 && self_65<=0 && n_66=0 && idx_69=0 ||  (exists (bg_44: (exists (sm_43: (exists (flted_15_45: (exists (p: (exists (d:sm_67<=d && d<bg_68 && n__bnd(p,flted_15_45,sm_43,bg_44,idx_64) && sm_43=sm_67 && bg_44=bg_68 && 1+flted_15_45=n_66 && self_65>0 && idx_69=idx_64+1)) )) )) )) )) ))
-};
-bottomupgen([n__bnd], [1], SimHeur);

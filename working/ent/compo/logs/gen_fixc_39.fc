@@ -1,7 +1,0 @@
-n__lsls:={[in_32,dt1_33,len1_34,out_35,dt2_36,len2_37,idx_38] -> [] -> []: (0=0 && (len1_34=len2_37 && 0=0 && in_32=out_35 && idx_38=0 || len1_34=1+len3_9 && n__lsls(u_7,dt3_8,len3_9,out_35,dt2_36,len2_37,idx_29) && in_32>0 && idx_38=idx_29+1))
-};
-bottomupgen([n__lsls], [1], SimHeur);n__lsls:={[in_32,dt1_33,len1_34,out_35,dt2_36,len2_37,idx_38] -> [] -> []: (0=0 && (len1_34=len2_37 && 0=0 && in_32=out_35 && idx_38=0 || len1_34=1+len3_9 && n__lsls(u_7,dt3_8,len3_9,out_35,dt2_36,len2_37,idx_29) && in_32>0 && idx_38=idx_29+1))
-};
-bottomupgen([n__lsls], [1], SimHeur);n__lsls:={[in_32,dt1_33,len1_34,out_35,dt2_36,len2_37,idx_38] -> [] -> []: (0=0 && (len1_34=len2_37 && 0=0 && in_32=out_35 && idx_38=0 || len1_34=1+len3_9 && n__lsls(u_7,dt3_8,len3_9,out_35,dt2_36,len2_37,idx_29) && in_32>0 && idx_38=idx_29+1))
-};
-bottomupgen([n__lsls], [1], SimHeur);

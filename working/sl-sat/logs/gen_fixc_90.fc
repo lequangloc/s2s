@@ -1,9 +1,0 @@
-n__ll:={[self_87,n_88,idx_89] -> [] -> []: (0=0 && (n_88=0 && 0=0 && self_87<=0 && idx_89=0 || 1+flted_19_73=n_88 && n__ll(r,flted_19_73,idx_86) && self_87>0 && idx_89=idx_86+1))
-};
-bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_87,n_88,idx_89] -> [] -> []: (0=0 && (n_88=0 && 0=0 && self_87<=0 && idx_89=0 || 1+flted_19_73=n_88 && n__ll(r,flted_19_73,idx_86) && self_87>0 && idx_89=idx_86+1))
-};
-bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_87,n_88,idx_89] -> [] -> []: (0=0 && (n_88=0 && 0=0 && self_87<=0 && idx_89=0 || 1+flted_19_73=n_88 && n__ll(r,flted_19_73,idx_86) && self_87>0 && idx_89=idx_86+1))
-};
-bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_87,n_88,idx_89] -> [] -> []: (0=0 && (n_88=0 && 0=0 && self_87<=0 && idx_89=0 || 1+flted_19_73=n_88 && n__ll(r,flted_19_73,idx_86) && self_87>0 && idx_89=idx_86+1))
-};
-bottomupgen([n__ll], [1], SimHeur);

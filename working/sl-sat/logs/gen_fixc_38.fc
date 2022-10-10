@@ -1,9 +1,0 @@
-n__sll:={[self_33,n_34,sm_35,lg_36,idx_37] -> [] -> []: (0=0 && ( (exists (sm_8: (exists (flted_9_9:flted_9_9<=0 && sm_8=sm_35 && self_33>0 && sm_35=lg_36 && n_34=1 && idx_37=0)) ))  ||  (exists (sm_5: (exists (q: (exists (lg_6: (exists (flted_10_7: (exists (qs:n__sll(q,flted_10_7,qs,lg_6,idx_32) && lg_6=lg_36 && 1+flted_10_7=n_34 && q>0 && sm_35<=qs && sm_5=sm_35 && self_33>0 && idx_37=idx_32+1)) )) )) )) )) ))
-};
-bottomupgen([n__sll], [1], SimHeur);n__sll:={[self_33,n_34,sm_35,lg_36,idx_37] -> [] -> []: (0=0 && ( (exists (sm_8: (exists (flted_9_9:flted_9_9<=0 && sm_8=sm_35 && self_33>0 && sm_35=lg_36 && n_34=1 && idx_37=0)) ))  ||  (exists (sm_5: (exists (q: (exists (lg_6: (exists (flted_10_7: (exists (qs:n__sll(q,flted_10_7,qs,lg_6,idx_32) && lg_6=lg_36 && 1+flted_10_7=n_34 && q>0 && sm_35<=qs && sm_5=sm_35 && self_33>0 && idx_37=idx_32+1)) )) )) )) )) ))
-};
-bottomupgen([n__sll], [1], SimHeur);n__sll:={[self_33,n_34,sm_35,lg_36,idx_37] -> [] -> []: (0=0 && ( (exists (sm_8: (exists (flted_9_9:flted_9_9<=0 && sm_8=sm_35 && self_33>0 && sm_35=lg_36 && n_34=1 && idx_37=0)) ))  ||  (exists (sm_5: (exists (q: (exists (lg_6: (exists (flted_10_7: (exists (qs:n__sll(q,flted_10_7,qs,lg_6,idx_32) && lg_6=lg_36 && 1+flted_10_7=n_34 && q>0 && sm_35<=qs && sm_5=sm_35 && self_33>0 && idx_37=idx_32+1)) )) )) )) )) ))
-};
-bottomupgen([n__sll], [1], SimHeur);n__sll:={[self_33,n_34,sm_35,lg_36,idx_37] -> [] -> []: (0=0 && ( (exists (sm_8: (exists (flted_9_9:flted_9_9<=0 && sm_8=sm_35 && self_33>0 && sm_35=lg_36 && n_34=1 && idx_37=0)) ))  ||  (exists (sm_5: (exists (q: (exists (lg_6: (exists (flted_10_7: (exists (qs:n__sll(q,flted_10_7,qs,lg_6,idx_32) && lg_6=lg_36 && 1+flted_10_7=n_34 && q>0 && sm_35<=qs && sm_5=sm_35 && self_33>0 && idx_37=idx_32+1)) )) )) )) )) ))
-};
-bottomupgen([n__sll], [1], SimHeur);

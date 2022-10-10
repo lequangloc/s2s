@@ -1,3 +1,0 @@
-n__lsls:={[in_31,dt1_32,len1_33,out_34,dt2_35,len2_36,idx_37] -> [] -> []: (0=0 && (len1_33=len2_36 && 0=0 && in_31=out_34 && idx_37=0 || len1_33=1+len3_9 && n__lsls(u_7,dt3_8,len3_9,out_34,dt2_35,len2_36,idx_28) && in_31>0 && idx_37=idx_28+1))
-};
-bottomupgen([n__lsls], [1], SimHeur);
