@@ -1,0 +1,13 @@
+( declare-fun  x1 () String )
+ ( declare-fun  x2 () String )
+ ( declare-fun  z () String )
+ ( declare-fun  t1 () String )
+ ( declare-fun  t2 () String )
+ ( declare-fun  t3 () String )
+ ( declare-fun  t4 () String )
+ ( declare-fun  t5 () String )
+ ( declare-fun  t6 () String )
+ ( declare-fun  t7 () String )
+ ( assert ( =( Concat( Concat( Concat( Concat "ab"  z  ) ( Concat x1  "abdd"  )  )  x2  ) ( Concat( Concat t6 ( Concat t1  t3  )  ) ( Concat( Concat t7  t5  ) ( Concat t2  t4  )  )  )  ) ( Concat( Concat z  "ba"  ) ( Concat( Concat x2  "dcba"  )  x1  )  )  ) )
+ ( check-sat )
+ 

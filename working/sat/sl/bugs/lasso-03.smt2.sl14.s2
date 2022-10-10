@@ -1,0 +1,16 @@
+
+data RefSll_t {
+  RefSll_t next;
+}.
+
+pred sll<x:RefSll_t,y:RefSll_t> ==
+ emp & x = y
+or (exists u: x::RefSll_t<next = u> * sll(u,y) & x != y).
+
+pred lasso<x:RefSll_t> ==
+ (exists y: x::RefSll_t<next = y> * lasso(y))
+or (exists y: x::RefSll_t<next = y> * sll(y,x)).
+
+checkent[valid] sll(x0,null) * lasso(x0)
+         |- false.
+

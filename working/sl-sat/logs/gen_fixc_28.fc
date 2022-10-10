@@ -1,0 +1,7 @@
+n__dll:={[self_24,p_25,n_26,idx_27] -> [] -> []: (0=0 && (n_26=0 && 0=0 && self_24<=0 && idx_27=0 || 1+flted_12_6=n_26 && n__dll(q,self_5,flted_12_6,idx_23) && self_5=self_24 && p_4=p_25 && self_24>0 && idx_27=idx_23+1))
+};
+bottomupgen([n__dll], [1], SimHeur);n__dll:={[self_24,p_25,n_26,idx_27] -> [] -> []: (0=0 && (n_26=0 && 0=0 && self_24<=0 && idx_27=0 || 1+flted_12_6=n_26 && n__dll(q,self_5,flted_12_6,idx_23) && self_5=self_24 && p_4=p_25 && self_24>0 && idx_27=idx_23+1))
+};
+bottomupgen([n__dll], [1], SimHeur);n__dll:={[self_24,p_25,n_26,idx_27] -> [] -> []: (0=0 && (n_26=0 && 0=0 && self_24<=0 && idx_27=0 || 1+flted_12_6=n_26 && n__dll(q,self_5,flted_12_6,idx_23) && self_5=self_24 && p_4=p_25 && self_24>0 && idx_27=idx_23+1))
+};
+bottomupgen([n__dll], [1], SimHeur);

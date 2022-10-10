@@ -1,0 +1,1480 @@
+
+slcomp/qf_shls_entl/bolognesa-10-e01.tptp.smt2.sl14.ss
+checkent ls(x2,x7)_0(+1)^-1(true) * x6::RefSll_t<x1> * x4::RefSll_t<x9> * x3::RefSll_t<x2> * x8::RefSll_t<x4> * ls(x10,x2)_0(+1)^-1(true) * x5::RefSll_t<x7> * x1::RefSll_t<x6> * x9::RefSll_t<x1> * ls(x7,x2)_0(+1)^-1(true) & null=null
+    |= ls(x6,x1)_0(+1)^-1(true) * ls(x10,x2)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x3,x2)_0(+1)^-1(true) * ls(x5,x7)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x7,x2)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e02.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x10> * ls(x9,x7)_0(+1)^-1(true) * x2::RefSll_t<x7> * x4::RefSll_t<x7> * x6::RefSll_t<x4> * x7::RefSll_t<x3> * x1::RefSll_t<x2> * x10::RefSll_t<x1> * x8::RefSll_t<x4> * x3::RefSll_t<x5> & null=null
+    |= ls(x3,x5)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x9,x7)_0(+1)^-1(true) * ls(x6,x7)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-10-e03.tptp.smt2.sl14.ss
+checkent ls(x5,x7)_0(+1)^-1(true) * x10::RefSll_t<x4> * x6::RefSll_t<x9> * x7::RefSll_t<x3> * x3::RefSll_t<x6> * x9::RefSll_t<x4> * ls(x2,x4)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * x1::RefSll_t<x10> * x4::RefSll_t<x10> & null=null
+    |= ls(x1,x10)_0(+1)^-1(true) * ls(x5,x7)_0(+1)^-1(true) * ls(x7,x6)_0(+1)^-1(true) * ls(x6,x9)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x4,x10)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-10-e04.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x7> * x1::RefSll_t<x4> * x4::RefSll_t<x8> * ls(x8,x3)_0(+1)^-1(true) * x2::RefSll_t<x7> * x5::RefSll_t<x3> * x6::RefSll_t<x8> * ls(x9,x4)_0(+1)^-1(true) * x10::RefSll_t<x7> * ls(x7,x9)_0(+1)^-1(true) & null=null
+    |= ls(x2,x7)_0(+1)^-1(true) * ls(x6,x8)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e05.tptp.smt2.sl14.ss
+checkent ls(x3,x6)_0(+1)^-1(true) * x9::RefSll_t<x1> * x7::RefSll_t<x9> * x6::RefSll_t<x7> * ls(x8,x9)_0(+1)^-1(true) * ls(x1,x9)_0(+1)^-1(true) * x2::RefSll_t<x3> * x5::RefSll_t<x1> * x4::RefSll_t<x9> * ls(x10,x5)_0(+1)^-1(true) & null=null
+    |= ls(x10,x5)_0(+1)^-1(true) * ls(x5,x1)_0(+1)^-1(true) * ls(x2,x9)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * ls(x1,x9)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e06.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x1> * ls(x4,x9)_0(+1)^-1(true) * ls(x9,x2)_0(+1)^-1(true) * x10::RefSll_t<x9> * x6::RefSll_t<x2> * ls(x2,x8)_0(+1)^-1(true) * x1::RefSll_t<x5> * x5::RefSll_t<x8> * x3::RefSll_t<x6> * x8::RefSll_t<x3> & null=null
+    |= ls(x10,x9)_0(+1)^-1(true) * ls(x7,x8)_0(+1)^-1(true) * ls(x4,x2)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) * ls(x8,x2)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e07.tptp.smt2.sl14.ss
+checkent x4::RefSll_t<x5> * x3::RefSll_t<x9> * ls(x8,x1)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * x7::RefSll_t<x8> * x9::RefSll_t<x4> * x5::RefSll_t<x1> * x10::RefSll_t<x5> * x6::RefSll_t<x10> & null=null
+    |= ls(x3,x9)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x6,x10)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x7,x1)_0(+1)^-1(true) * ls(x4,x8)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e08.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x8> * x3::RefSll_t<x7> * x4::RefSll_t<x1> * x5::RefSll_t<x1> * x10::RefSll_t<x5> * x8::RefSll_t<x3> * x6::RefSll_t<x10> * x2::RefSll_t<x6> * x9::RefSll_t<x3> * ls(x1,x6)_0(+1)^-1(true) & null=null
+    |= ls(x4,x1)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x7,x8)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x9,x3)_0(+1)^-1(true) * ls(x6,x1)_0(+1)^-1(true) * ls(x8,x7)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e09.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x9> * ls(x3,x6)_0(+1)^-1(true) * x5::RefSll_t<x4> * x8::RefSll_t<x9> * x4::RefSll_t<x2> * x7::RefSll_t<x6> * x10::RefSll_t<x5> * x1::RefSll_t<x2> * x6::RefSll_t<x3> * ls(x9,x5)_0(+1)^-1(true) & null=null
+    |= ls(x7,x6)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x5,x4)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * ls(x4,x5)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-10-e10.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x2> * x4::RefSll_t<x6> * x9::RefSll_t<x3> * ls(x7,x2)_0(+1)^-1(true) * ls(x5,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> * x8::RefSll_t<x9> * x6::RefSll_t<x9> * x2::RefSll_t<x10> * ls(x10,x1)_0(+1)^-1(true) & null=null
+    |= ls(x5,x4)_0(+1)^-1(true) * ls(x7,x2)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x3,x2)_0(+1)^-1(true) * ls(x2,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e01.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x11> * x3::RefSll_t<x1> * x6::RefSll_t<x2> * x9::RefSll_t<x6> * x4::RefSll_t<x1> * x8::RefSll_t<x3> * x5::RefSll_t<x11> * ls(x7,x9)_0(+1)^-1(true) * x11::RefSll_t<x3> * x2::RefSll_t<x11> * ls(x10,x11)_0(+1)^-1(true) & null=null
+    |= ls(x8,x3)_0(+1)^-1(true) * ls(x7,x9)_0(+1)^-1(true) * ls(x3,x1)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * ls(x5,x11)_0(+1)^-1(true) * ls(x1,x3)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e02.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x1> * x11::RefSll_t<x7> * x9::RefSll_t<x8> * ls(x4,x9)_0(+1)^-1(true) * x8::RefSll_t<x5> * x1::RefSll_t<x4> * ls(x10,x2)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x6::RefSll_t<x5> * x2::RefSll_t<x6> & null=null
+    |= ls(x11,x7)_0(+1)^-1(true) * ls(x7,x9)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x3,x2)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e03.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x10> * ls(x5,x10)_0(+1)^-1(true) * ls(x11,x2)_0(+1)^-1(true) * x10::RefSll_t<x2> * x2::RefSll_t<x1> * x7::RefSll_t<x4> * x1::RefSll_t<x9> * x9::RefSll_t<x1> * ls(x8,x10)_0(+1)^-1(true) * x6::RefSll_t<x5> * x4::RefSll_t<x7> & null=null
+    |= ls(x9,x1)_0(+1)^-1(true) * ls(x6,x5)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * ls(x3,x10)_0(+1)^-1(true) * ls(x7,x4)_0(+1)^-1(true) * ls(x5,x10)_0(+1)^-1(true) * ls(x10,x2)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e04.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x9> * x4::RefSll_t<x3> * x1::RefSll_t<x3> * x8::RefSll_t<x10> * x5::RefSll_t<x1> * x6::RefSll_t<x9> * ls(x10,x5)_0(+1)^-1(true) * x2::RefSll_t<x4> * x11::RefSll_t<x9> * x7::RefSll_t<x9> * x9::RefSll_t<x3> & null=null
+    |= ls(x11,x9)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x7,x9)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) * ls(x3,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e05.tptp.smt2.sl14.ss
+checkent x8::RefSll_t<x7> * ls(x7,x2)_0(+1)^-1(true) * x11::RefSll_t<x9> * x4::RefSll_t<x1> * x1::RefSll_t<x8> * ls(x6,x9)_0(+1)^-1(true) * x3::RefSll_t<x11> * x5::RefSll_t<x7> * ls(x9,x1)_0(+1)^-1(true) * x10::RefSll_t<x7> * ls(x2,x7)_0(+1)^-1(true) & null=null
+    |= ls(x10,x7)_0(+1)^-1(true) * ls(x6,x9)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x5,x2)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-11-e06.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x9> * ls(x4,x7)_0(+1)^-1(true) * x11::RefSll_t<x8> * ls(x9,x1)_0(+1)^-1(true) * x7::RefSll_t<x11> * ls(x10,x7)_0(+1)^-1(true) * x6::RefSll_t<x9> * ls(x8,x11)_0(+1)^-1(true) * x3::RefSll_t<x9> * x1::RefSll_t<x5> * x5::RefSll_t<x2> & null=null
+    |= ls(x10,x7)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) * ls(x7,x11)_0(+1)^-1(true) * ls(x8,x11)_0(+1)^-1(true) * ls(x11,x8)_0(+1)^-1(true) * ls(x3,x9)_0(+1)^-1(true) * ls(x2,x9)_0(+1)^-1(true) * ls(x6,x2)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-11-e07.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x11> * x5::RefSll_t<x10> * x10::RefSll_t<x6> * x3::RefSll_t<x7> * x1::RefSll_t<x8> * ls(x4,x9)_0(+1)^-1(true) * x11::RefSll_t<x1> * x6::RefSll_t<x9> * x9::RefSll_t<x2> * x2::RefSll_t<x6> * x8::RefSll_t<x11> & null=null
+    |= ls(x5,x10)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x7,x1)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * ls(x10,x2)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e08.tptp.smt2.sl14.ss
+checkent x8::RefSll_t<x11> * ls(x3,x8)_0(+1)^-1(true) * ls(x6,x4)_0(+1)^-1(true) * x10::RefSll_t<x6> * x1::RefSll_t<x7> * x2::RefSll_t<x7> * x5::RefSll_t<x3> * ls(x11,x1)_0(+1)^-1(true) * x9::RefSll_t<x7> * x7::RefSll_t<x6> * x4::RefSll_t<x9> & null=null
+    |= ls(x9,x7)_0(+1)^-1(true) * ls(x10,x6)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x5,x8)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e09.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x7> * x7::RefSll_t<x8> * x8::RefSll_t<x4> * x10::RefSll_t<x5> * x4::RefSll_t<x8> * x9::RefSll_t<x8> * x1::RefSll_t<x5> * x3::RefSll_t<x6> * x11::RefSll_t<x7> * x6::RefSll_t<x11> * ls(x2,x6)_0(+1)^-1(true) & null=null
+    |= ls(x10,x5)_0(+1)^-1(true) * ls(x4,x8)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x9,x8)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-11-e10.tptp.smt2.sl14.ss
+checkent ls(x1,x3)_0(+1)^-1(true) * x8::RefSll_t<x11> * x5::RefSll_t<x8> * x11::RefSll_t<x10> * ls(x3,x1)_0(+1)^-1(true) * ls(x10,x9)_0(+1)^-1(true) * x4::RefSll_t<x6> * x6::RefSll_t<x4> * x9::RefSll_t<x10> * x7::RefSll_t<x1> * ls(x2,x6)_0(+1)^-1(true) & null=null
+    |= ls(x2,x4)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * ls(x7,x3)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x3,x1)_0(+1)^-1(true) * ls(x5,x11)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-12-e01.tptp.smt2.sl14.ss
+checkent x10::RefSll_t<x6> * x2::RefSll_t<x1> * x8::RefSll_t<x5> * x4::RefSll_t<x7> * x1::RefSll_t<x6> * x9::RefSll_t<x3> * x6::RefSll_t<x4> * ls(x12,x8)_0(+1)^-1(true) * x5::RefSll_t<x1> * x7::RefSll_t<x6> * x3::RefSll_t<x5> * ls(x11,x8)_0(+1)^-1(true) & null=null
+    |= ls(x10,x6)_0(+1)^-1(true) * ls(x12,x8)_0(+1)^-1(true) * ls(x11,x5)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x5,x1)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-12-e02.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x6> * x12::RefSll_t<x4> * x8::RefSll_t<x6> * ls(x1,x8)_0(+1)^-1(true) * x11::RefSll_t<x5> * ls(x4,x3)_0(+1)^-1(true) * x2::RefSll_t<x4> * x9::RefSll_t<x6> * x3::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x10> * ls(x10,x3)_0(+1)^-1(true) & null=null
+    |= ls(x9,x6)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x12,x7)_0(+1)^-1(true) * ls(x11,x8)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x7,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-12-e03.tptp.smt2.sl14.ss
+checkent x10::RefSll_t<x7> * x2::RefSll_t<x4> * ls(x6,x1)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x10)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * x4::RefSll_t<x12> * ls(x7,x5)_0(+1)^-1(true) * ls(x11,x10)_0(+1)^-1(true) * x8::RefSll_t<x9> & null=null
+    |= ls(x5,x7)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * ls(x6,x1)_0(+1)^-1(true) * ls(x4,x10)_0(+1)^-1(true) * ls(x3,x10)_0(+1)^-1(true) * ls(x1,x5)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-12-e04.tptp.smt2.sl14.ss
+checkent x4::RefSll_t<x12> * ls(x9,x10)_0(+1)^-1(true) * x3::RefSll_t<x11> * x7::RefSll_t<x9> * x5::RefSll_t<x2> * ls(x12,x4)_0(+1)^-1(true) * x10::RefSll_t<x9> * x1::RefSll_t<x2> * x11::RefSll_t<x7> * ls(x2,x11)_0(+1)^-1(true) * x6::RefSll_t<x10> * x8::RefSll_t<x4> & null=null
+    |= ls(x6,x10)_0(+1)^-1(true) * ls(x12,x4)_0(+1)^-1(true) * ls(x8,x12)_0(+1)^-1(true) * ls(x5,x2)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x10,x9)_0(+1)^-1(true) * ls(x7,x10)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-12-e05.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x11> * x1::RefSll_t<x9> * x3::RefSll_t<x4> * x9::RefSll_t<x7> * x4::RefSll_t<x9> * x7::RefSll_t<x10> * x8::RefSll_t<x10> * x6::RefSll_t<x7> * x12::RefSll_t<x7> * ls(x11,x2)_0(+1)^-1(true) * x2::RefSll_t<x5> * x10::RefSll_t<x3> & null=null
+    |= ls(x4,x9)_0(+1)^-1(true) * ls(x12,x7)_0(+1)^-1(true) * ls(x6,x7)_0(+1)^-1(true) * ls(x2,x5)_0(+1)^-1(true) * ls(x5,x2)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-12-e06.tptp.smt2.sl14.ss
+checkent x9::RefSll_t<x2> * x12::RefSll_t<x5> * x6::RefSll_t<x9> * x7::RefSll_t<x5> * x11::RefSll_t<x3> * ls(x8,x11)_0(+1)^-1(true) * x1::RefSll_t<x7> * x2::RefSll_t<x3> * x4::RefSll_t<x12> * x5::RefSll_t<x10> * x10::RefSll_t<x1> * x3::RefSll_t<x4> & null=null
+    |= ls(x7,x5)_0(+1)^-1(true) * ls(x8,x11)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x11,x4)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-12-e07.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x10> * x4::RefSll_t<x11> * x6::RefSll_t<x5> * ls(x9,x5)_0(+1)^-1(true) * x10::RefSll_t<x12> * ls(x3,x8)_0(+1)^-1(true) * x1::RefSll_t<x2> * x11::RefSll_t<x1> * x5::RefSll_t<x4> * x12::RefSll_t<x9> * ls(x2,x8)_0(+1)^-1(true) * ls(x8,x11)_0(+1)^-1(true) & null=null
+    |= ls(x7,x12)_0(+1)^-1(true) * ls(x12,x5)_0(+1)^-1(true) * ls(x3,x8)_0(+1)^-1(true) * ls(x8,x11)_0(+1)^-1(true) * ls(x6,x11)_0(+1)^-1(true) * ls(x11,x8)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-12-e08.tptp.smt2.sl14.ss
+checkent ls(x8,x7)_0(+1)^-1(true) * x3::RefSll_t<x12> * x6::RefSll_t<x9> * ls(x2,x11)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x9,x12)_0(+1)^-1(true) * x12::RefSll_t<x6> * x5::RefSll_t<x4> * x10::RefSll_t<x8> * x7::RefSll_t<x11> * x1::RefSll_t<x6> * x11::RefSll_t<x6> & null=null
+    |= ls(x1,x6)_0(+1)^-1(true) * ls(x10,x8)_0(+1)^-1(true) * ls(x8,x7)_0(+1)^-1(true) * ls(x7,x11)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x5,x12)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-12-e09.tptp.smt2.sl14.ss
+checkent ls(x8,x12)_0(+1)^-1(true) * x12::RefSll_t<x2> * ls(x11,x9)_0(+1)^-1(true) * ls(x6,x10)_0(+1)^-1(true) * x2::RefSll_t<x6> * ls(x5,x9)_0(+1)^-1(true) * x3::RefSll_t<x4> * ls(x4,x8)_0(+1)^-1(true) * x1::RefSll_t<x6> * x10::RefSll_t<x1> * x9::RefSll_t<x7> * ls(x7,x4)_0(+1)^-1(true) & null=null
+    |= ls(x11,x9)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x3,x4)_0(+1)^-1(true) * ls(x5,x8)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-12-e10.tptp.smt2.sl14.ss
+checkent x4::RefSll_t<x3> * x7::RefSll_t<x1> * ls(x9,x2)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * ls(x12,x8)_0(+1)^-1(true) * x6::RefSll_t<x1> * x5::RefSll_t<x10> * ls(x2,x1)_0(+1)^-1(true) * x8::RefSll_t<x5> * x10::RefSll_t<x3> * x11::RefSll_t<x12> * x1::RefSll_t<x12> & null=null
+    |= ls(x4,x3)_0(+1)^-1(true) * ls(x6,x1)_0(+1)^-1(true) * ls(x11,x12)_0(+1)^-1(true) * ls(x9,x2)_0(+1)^-1(true) * ls(x2,x1)_0(+1)^-1(true) * ls(x7,x1)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-13-e01.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x6> * x4::RefSll_t<x1> * x11::RefSll_t<x8> * ls(x1,x3)_0(+1)^-1(true) * x13::RefSll_t<x6> * x8::RefSll_t<x6> * x3::RefSll_t<x7> * x7::RefSll_t<x3> * x6::RefSll_t<x2> * ls(x12,x7)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * x9::RefSll_t<x2> * ls(x5,x11)_0(+1)^-1(true) & null=null
+    |= ls(x4,x1)_0(+1)^-1(true) * ls(x9,x6)_0(+1)^-1(true) * ls(x5,x11)_0(+1)^-1(true) * ls(x12,x3)_0(+1)^-1(true) * ls(x13,x6)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * ls(x1,x7)_0(+1)^-1(true) * ls(x11,x2)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-13-e02.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x3> * x13::RefSll_t<x7> * x8::RefSll_t<x9> * x12::RefSll_t<x5> * ls(x7,x5)_0(+1)^-1(true) * x10::RefSll_t<x13> * ls(x9,x2)_0(+1)^-1(true) * x2::RefSll_t<x5> * x6::RefSll_t<x13> * x3::RefSll_t<x9> * x11::RefSll_t<x3> * x4::RefSll_t<x13> * ls(x5,x13)_0(+1)^-1(true) & null=null
+    |= ls(x11,x3)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x12,x5)_0(+1)^-1(true) * ls(x1,x9)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) * ls(x8,x5)_0(+1)^-1(true) * ls(x7,x13)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-13-e03.tptp.smt2.sl14.ss
+checkent x4::RefSll_t<x8> * x7::RefSll_t<x5> * x1::RefSll_t<x10> * x3::RefSll_t<x7> * ls(x5,x12)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x13,x9)_0(+1)^-1(true) * x8::RefSll_t<x11> * ls(x12,x4)_0(+1)^-1(true) * x6::RefSll_t<x12> * x2::RefSll_t<x4> * ls(x9,x11)_0(+1)^-1(true) * x11::RefSll_t<x6> & null=null
+    |= ls(x1,x13)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x13,x11)_0(+1)^-1(true) * ls(x11,x6)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x6,x11)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-13-e04.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x11> * ls(x5,x11)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * x2::RefSll_t<x5> * x10::RefSll_t<x13> * x8::RefSll_t<x11> * x9::RefSll_t<x8> * x6::RefSll_t<x12> * ls(x12,x4)_0(+1)^-1(true) * x11::RefSll_t<x4> * x4::RefSll_t<x3> * x13::RefSll_t<x12> & null=null
+    |= ls(x1,x4)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * ls(x6,x12)_0(+1)^-1(true) * ls(x7,x11)_0(+1)^-1(true) * ls(x2,x11)_0(+1)^-1(true) * ls(x10,x12)_0(+1)^-1(true) * ls(x12,x4)_0(+1)^-1(true) * ls(x9,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-13-e05.tptp.smt2.sl14.ss
+checkent x9::RefSll_t<x2> * x7::RefSll_t<x10> * ls(x12,x5)_0(+1)^-1(true) * x4::RefSll_t<x13> * x10::RefSll_t<x13> * x3::RefSll_t<x9> * ls(x13,x7)_0(+1)^-1(true) * x11::RefSll_t<x13> * ls(x1,x12)_0(+1)^-1(true) * x6::RefSll_t<x5> * x5::RefSll_t<x9> * x8::RefSll_t<x4> * x2::RefSll_t<x1> & null=null
+    |= ls(x8,x4)_0(+1)^-1(true) * ls(x7,x10)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x12,x5)_0(+1)^-1(true) * ls(x11,x13)_0(+1)^-1(true) * ls(x3,x9)_0(+1)^-1(true) * ls(x6,x12)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-13-e06.tptp.smt2.sl14.ss
+checkent ls(x12,x2)_0(+1)^-1(true) * x3::RefSll_t<x6> * x1::RefSll_t<x7> * x4::RefSll_t<x13> * ls(x7,x3)_0(+1)^-1(true) * x11::RefSll_t<x4> * ls(x6,x1)_0(+1)^-1(true) * x8::RefSll_t<x10> * x10::RefSll_t<x6> * x2::RefSll_t<x3> * x5::RefSll_t<x6> * ls(x9,x8)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) & null=null
+    |= ls(x11,x4)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x9,x6)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * ls(x12,x6)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-13-e07.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x4> * x10::RefSll_t<x7> * x6::RefSll_t<x8> * ls(x5,x1)_0(+1)^-1(true) * x13::RefSll_t<x6> * x7::RefSll_t<x12> * x12::RefSll_t<x10> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x1> * x4::RefSll_t<x9> * ls(x8,x10)_0(+1)^-1(true) * ls(x3,x9)_0(+1)^-1(true) * ls(x2,x13)_0(+1)^-1(true) & null=null
+    |= ls(x3,x9)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x6,x8)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * ls(x5,x1)_0(+1)^-1(true) * ls(x10,x12)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-13-e08.tptp.smt2.sl14.ss
+checkent ls(x4,x6)_0(+1)^-1(true) * x9::RefSll_t<x12> * x5::RefSll_t<x7> * ls(x7,x9)_0(+1)^-1(true) * x13::RefSll_t<x8> * x8::RefSll_t<x1> * ls(x6,x5)_0(+1)^-1(true) * ls(x11,x13)_0(+1)^-1(true) * x3::RefSll_t<x8> * x10::RefSll_t<x3> * x12::RefSll_t<x1> * x2::RefSll_t<x7> * x1::RefSll_t<x11> & null=null
+    |= ls(x10,x8)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x6,x7)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-13-e09.tptp.smt2.sl14.ss
+checkent ls(x7,x2)_0(+1)^-1(true) * ls(x6,x5)_0(+1)^-1(true) * x4::RefSll_t<x1> * x5::RefSll_t<x8> * x3::RefSll_t<x9> * x11::RefSll_t<x3> * ls(x1,x4)_0(+1)^-1(true) * x13::RefSll_t<x3> * x12::RefSll_t<x10> * x10::RefSll_t<x7> * x9::RefSll_t<x4> * x8::RefSll_t<x7> * x2::RefSll_t<x12> & null=null
+    |= ls(x6,x5)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) * ls(x13,x3)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x11,x1)_0(+1)^-1(true) * ls(x5,x10)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-13-e10.tptp.smt2.sl14.ss
+checkent ls(x3,x6)_0(+1)^-1(true) * ls(x7,x4)_0(+1)^-1(true) * x1::RefSll_t<x10> * x8::RefSll_t<x13> * ls(x12,x2)_0(+1)^-1(true) * x6::RefSll_t<x9> * ls(x13,x11)_0(+1)^-1(true) * x9::RefSll_t<x8> * ls(x5,x7)_0(+1)^-1(true) * ls(x2,x10)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) * ls(x11,x4)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) & null=null
+    |= ls(x3,x8)_0(+1)^-1(true) * ls(x8,x13)_0(+1)^-1(true) * ls(x5,x7)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x7,x10)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-14-e01.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x6> * x2::RefSll_t<x12> * ls(x1,x7)_0(+1)^-1(true) * x14::RefSll_t<x11> * x8::RefSll_t<x11> * x12::RefSll_t<x1> * x13::RefSll_t<x4> * x10::RefSll_t<x5> * x5::RefSll_t<x2> * x4::RefSll_t<x14> * ls(x9,x4)_0(+1)^-1(true) * ls(x6,x8)_0(+1)^-1(true) * x11::RefSll_t<x13> * ls(x7,x14)_0(+1)^-1(true) & null=null
+    |= ls(x9,x4)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * ls(x4,x14)_0(+1)^-1(true) * ls(x5,x4)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e02.tptp.smt2.sl14.ss
+checkent x11::RefSll_t<x8> * x5::RefSll_t<x13> * x10::RefSll_t<x5> * x9::RefSll_t<x7> * x7::RefSll_t<x3> * x3::RefSll_t<x10> * x12::RefSll_t<x3> * x13::RefSll_t<x9> * x6::RefSll_t<x4> * ls(x2,x5)_0(+1)^-1(true) * x14::RefSll_t<x12> * x1::RefSll_t<x3> * x8::RefSll_t<x13> * ls(x4,x12)_0(+1)^-1(true) & null=null
+    |= ls(x1,x3)_0(+1)^-1(true) * ls(x2,x5)_0(+1)^-1(true) * ls(x14,x12)_0(+1)^-1(true) * ls(x5,x13)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x11,x8)_0(+1)^-1(true) * ls(x8,x5)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e03.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x4> * x9::RefSll_t<x12> * ls(x13,x7)_0(+1)^-1(true) * x5::RefSll_t<x4> * x2::RefSll_t<x5> * x1::RefSll_t<x4> * ls(x4,x7)_0(+1)^-1(true) * x10::RefSll_t<x9> * ls(x11,x10)_0(+1)^-1(true) * x12::RefSll_t<x13> * x6::RefSll_t<x4> * ls(x8,x4)_0(+1)^-1(true) * x3::RefSll_t<x6> * ls(x7,x3)_0(+1)^-1(true) & null=null
+    |= ls(x14,x4)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x9,x7)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e04.tptp.smt2.sl14.ss
+checkent ls(x11,x8)_0(+1)^-1(true) * x10::RefSll_t<x12> * x7::RefSll_t<x14> * x3::RefSll_t<x12> * x5::RefSll_t<x9> * x8::RefSll_t<x12> * x13::RefSll_t<x11> * x12::RefSll_t<x9> * x14::RefSll_t<x5> * x6::RefSll_t<x3> * x4::RefSll_t<x11> * ls(x1,x7)_0(+1)^-1(true) * x2::RefSll_t<x1> * x9::RefSll_t<x13> & null=null
+    |= ls(x4,x11)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x8,x12)_0(+1)^-1(true) * ls(x10,x12)_0(+1)^-1(true) * ls(x6,x12)_0(+1)^-1(true) * ls(x7,x5)_0(+1)^-1(true) * ls(x5,x9)_0(+1)^-1(true) * ls(x12,x8)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e05.tptp.smt2.sl14.ss
+checkent x11::RefSll_t<x6> * ls(x4,x10)_0(+1)^-1(true) * x13::RefSll_t<x9> * ls(x14,x12)_0(+1)^-1(true) * x5::RefSll_t<x9> * ls(x10,x11)_0(+1)^-1(true) * x7::RefSll_t<x12> * ls(x2,x12)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * x9::RefSll_t<x4> * x1::RefSll_t<x6> * x12::RefSll_t<x7> * ls(x6,x4)_0(+1)^-1(true) * x8::RefSll_t<x4> & null=null
+    |= ls(x7,x12)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x5,x9)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x13,x10)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x2,x12)_0(+1)^-1(true) * ls(x14,x7)_0(+1)^-1(true) * ls(x10,x4)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-14-e06.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x2> * x2::RefSll_t<x9> * x14::RefSll_t<x12> * x4::RefSll_t<x8> * x3::RefSll_t<x10> * x13::RefSll_t<x12> * x12::RefSll_t<x4> * x6::RefSll_t<x10> * x11::RefSll_t<x13> * x10::RefSll_t<x11> * x1::RefSll_t<x2> * x9::RefSll_t<x7> * x5::RefSll_t<x9> * ls(x8,x10)_0(+1)^-1(true) & null=null
+    |= ls(x14,x12)_0(+1)^-1(true) * ls(x5,x9)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * ls(x6,x10)_0(+1)^-1(true) * ls(x3,x10)_0(+1)^-1(true) * ls(x13,x12)_0(+1)^-1(true) * ls(x9,x7)_0(+1)^-1(true) * ls(x7,x9)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e07.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x13> * x3::RefSll_t<x12> * ls(x8,x3)_0(+1)^-1(true) * ls(x7,x6)_0(+1)^-1(true) * x13::RefSll_t<x6> * ls(x9,x1)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) * x14::RefSll_t<x13> * x10::RefSll_t<x6> * x11::RefSll_t<x9> * x1::RefSll_t<x14> * x12::RefSll_t<x13> * x4::RefSll_t<x2> * x6::RefSll_t<x14> & null=null
+    |= ls(x7,x6)_0(+1)^-1(true) * ls(x4,x8)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) * ls(x8,x12)_0(+1)^-1(true) * ls(x10,x6)_0(+1)^-1(true) * ls(x9,x13)_0(+1)^-1(true) * ls(x5,x13)_0(+1)^-1(true) * ls(x12,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e08.tptp.smt2.sl14.ss
+checkent ls(x8,x9)_0(+1)^-1(true) * x6::RefSll_t<x13> * ls(x1,x4)_0(+1)^-1(true) * x11::RefSll_t<x1> * x5::RefSll_t<x6> * x2::RefSll_t<x1> * x3::RefSll_t<x13> * ls(x9,x3)_0(+1)^-1(true) * x12::RefSll_t<x13> * x10::RefSll_t<x9> * x14::RefSll_t<x13> * ls(x4,x12)_0(+1)^-1(true) * ls(x7,x13)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) & null=null
+    |= ls(x11,x1)_0(+1)^-1(true) * ls(x2,x1)_0(+1)^-1(true) * ls(x14,x13)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x7,x13)_0(+1)^-1(true) * ls(x1,x13)_0(+1)^-1(true) * ls(x10,x6)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e09.tptp.smt2.sl14.ss
+checkent ls(x12,x4)_0(+1)^-1(true) * x10::RefSll_t<x11> * ls(x11,x14)_0(+1)^-1(true) * x5::RefSll_t<x13> * ls(x1,x11)_0(+1)^-1(true) * x3::RefSll_t<x2> * x6::RefSll_t<x2> * x4::RefSll_t<x14> * x2::RefSll_t<x6> * x13::RefSll_t<x5> * x14::RefSll_t<x4> * ls(x8,x7)_0(+1)^-1(true) * x7::RefSll_t<x6> * ls(x9,x12)_0(+1)^-1(true) & null=null
+    |= ls(x5,x13)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * ls(x8,x2)_0(+1)^-1(true) * ls(x10,x4)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x4,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-14-e10.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x4> * x10::RefSll_t<x11> * ls(x8,x12)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * x1::RefSll_t<x7> * ls(x5,x1)_0(+1)^-1(true) * x6::RefSll_t<x4> * ls(x4,x13)_0(+1)^-1(true) * x2::RefSll_t<x3> * x3::RefSll_t<x1> * x12::RefSll_t<x14> * ls(x7,x3)_0(+1)^-1(true) * ls(x11,x12)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) & null=null
+    |= ls(x6,x4)_0(+1)^-1(true) * ls(x2,x3)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * ls(x3,x1)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) * ls(x8,x12)_0(+1)^-1(true) * ls(x11,x13)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-15-e01.tptp.smt2.sl14.ss
+checkent x13::RefSll_t<x3> * ls(x14,x2)_0(+1)^-1(true) * ls(x11,x12)_0(+1)^-1(true) * x4::RefSll_t<x12> * x10::RefSll_t<x15> * x2::RefSll_t<x1> * x8::RefSll_t<x2> * x6::RefSll_t<x8> * x12::RefSll_t<x6> * x3::RefSll_t<x4> * ls(x7,x11)_0(+1)^-1(true) * ls(x15,x2)_0(+1)^-1(true) * x5::RefSll_t<x7> * x1::RefSll_t<x6> * x9::RefSll_t<x11> & null=null
+    |= ls(x14,x2)_0(+1)^-1(true) * ls(x13,x3)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) * ls(x5,x12)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e02.tptp.smt2.sl14.ss
+checkent ls(x11,x14)_0(+1)^-1(true) * x4::RefSll_t<x9> * x2::RefSll_t<x5> * x3::RefSll_t<x12> * ls(x14,x11)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * x6::RefSll_t<x2> * x15::RefSll_t<x6> * x7::RefSll_t<x5> * x1::RefSll_t<x13> * x5::RefSll_t<x1> * x13::RefSll_t<x12> * x8::RefSll_t<x12> * ls(x12,x5)_0(+1)^-1(true) * ls(x9,x8)_0(+1)^-1(true) & null=null
+    |= ls(x15,x6)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x6,x2)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x2,x5)_0(+1)^-1(true) * ls(x9,x8)_0(+1)^-1(true) * ls(x13,x12)_0(+1)^-1(true) * ls(x7,x5)_0(+1)^-1(true) * ls(x8,x13)_0(+1)^-1(true) * ls(x14,x11)_0(+1)^-1(true) * ls(x11,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e03.tptp.smt2.sl14.ss
+checkent ls(x3,x1)_0(+1)^-1(true) * ls(x13,x14)_0(+1)^-1(true) * x15::RefSll_t<x3> * x6::RefSll_t<x13> * x8::RefSll_t<x15> * ls(x9,x13)_0(+1)^-1(true) * x7::RefSll_t<x11> * x2::RefSll_t<x7> * x10::RefSll_t<x14> * ls(x11,x3)_0(+1)^-1(true) * x12::RefSll_t<x9> * ls(x4,x6)_0(+1)^-1(true) * x1::RefSll_t<x12> * x14::RefSll_t<x11> * ls(x5,x11)_0(+1)^-1(true) & null=null
+    |= ls(x10,x14)_0(+1)^-1(true) * ls(x9,x13)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x7,x11)_0(+1)^-1(true) * ls(x8,x15)_0(+1)^-1(true) * ls(x15,x3)_0(+1)^-1(true) * ls(x5,x11)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-15-e04.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x1> * ls(x3,x15)_0(+1)^-1(true) * x7::RefSll_t<x2> * x12::RefSll_t<x1> * x13::RefSll_t<x14> * ls(x1,x5)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) * x15::RefSll_t<x8> * x5::RefSll_t<x4> * x11::RefSll_t<x2> * ls(x2,x8)_0(+1)^-1(true) * x6::RefSll_t<x15> * x10::RefSll_t<x3> * x8::RefSll_t<x11> & null=null
+    |= ls(x6,x15)_0(+1)^-1(true) * ls(x10,x3)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x12,x1)_0(+1)^-1(true) * ls(x3,x8)_0(+1)^-1(true) * ls(x11,x2)_0(+1)^-1(true) * ls(x13,x11)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e05.tptp.smt2.sl14.ss
+checkent ls(x11,x15)_0(+1)^-1(true) * x4::RefSll_t<x5> * x5::RefSll_t<x11> * ls(x1,x12)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) * ls(x7,x6)_0(+1)^-1(true) * x3::RefSll_t<x1> * ls(x9,x11)_0(+1)^-1(true) * x2::RefSll_t<x8> * x10::RefSll_t<x5> * x15::RefSll_t<x5> * x14::RefSll_t<x6> * x13::RefSll_t<x4> * x8::RefSll_t<x11> * x6::RefSll_t<x8> & null=null
+    |= ls(x15,x5)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x3,x1)_0(+1)^-1(true) * ls(x7,x6)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x4,x5)_0(+1)^-1(true) * ls(x14,x11)_0(+1)^-1(true) * ls(x5,x15)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e06.tptp.smt2.sl14.ss
+checkent ls(x6,x1)_0(+1)^-1(true) * ls(x11,x6)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x12,x1)_0(+1)^-1(true) * x5::RefSll_t<x8> * x7::RefSll_t<x10> * x8::RefSll_t<x15> * x2::RefSll_t<x14> * ls(x9,x5)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * x3::RefSll_t<x10> * x10::RefSll_t<x3> * ls(x13,x7)_0(+1)^-1(true) * ls(x14,x7)_0(+1)^-1(true) * x1::RefSll_t<x7> & null=null
+    |= ls(x12,x1)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x11,x6)_0(+1)^-1(true) * ls(x13,x7)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * ls(x3,x10)_0(+1)^-1(true) * ls(x5,x8)_0(+1)^-1(true) * ls(x8,x15)_0(+1)^-1(true) * ls(x15,x7)_0(+1)^-1(true) * ls(x2,x3)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e07.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x5> * x11::RefSll_t<x2> * x10::RefSll_t<x4> * x12::RefSll_t<x13> * x6::RefSll_t<x2> * x14::RefSll_t<x10> * ls(x5,x11)_0(+1)^-1(true) * x9::RefSll_t<x3> * ls(x8,x4)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * x2::RefSll_t<x7> * x3::RefSll_t<x1> * ls(x15,x13)_0(+1)^-1(true) * x4::RefSll_t<x3> * x7::RefSll_t<x10> & null=null
+    |= ls(x6,x2)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) * ls(x9,x3)_0(+1)^-1(true) * ls(x15,x4)_0(+1)^-1(true) * ls(x7,x10)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x14,x10)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-15-e08.tptp.smt2.sl14.ss
+checkent ls(x13,x11)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * x4::RefSll_t<x9> * ls(x6,x13)_0(+1)^-1(true) * x10::RefSll_t<x4> * x2::RefSll_t<x6> * x14::RefSll_t<x11> * x11::RefSll_t<x9> * x12::RefSll_t<x3> * ls(x9,x12)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) * x15::RefSll_t<x2> * ls(x7,x8)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x3,x5)_0(+1)^-1(true) & null=null
+    |= ls(x14,x11)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x6,x9)_0(+1)^-1(true) * ls(x7,x5)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-15-e09.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x3> * x11::RefSll_t<x3> * ls(x15,x12)_0(+1)^-1(true) * x3::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * x7::RefSll_t<x10> * x9::RefSll_t<x5> * ls(x8,x13)_0(+1)^-1(true) * x4::RefSll_t<x5> * ls(x1,x4)_0(+1)^-1(true) * x12::RefSll_t<x5> * x6::RefSll_t<x3> * ls(x5,x12)_0(+1)^-1(true) * x14::RefSll_t<x11> & null=null
+    |= ls(x6,x3)_0(+1)^-1(true) * ls(x15,x12)_0(+1)^-1(true) * ls(x2,x3)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x8,x13)_0(+1)^-1(true) * ls(x14,x11)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * ls(x11,x3)_0(+1)^-1(true) * ls(x7,x10)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x4,x5)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * ls(x5,x12)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-15-e10.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x5> * x3::RefSll_t<x6> * x13::RefSll_t<x9> * x8::RefSll_t<x11> * x10::RefSll_t<x8> * x12::RefSll_t<x8> * x6::RefSll_t<x4> * ls(x7,x3)_0(+1)^-1(true) * x14::RefSll_t<x15> * x5::RefSll_t<x10> * ls(x15,x13)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x11,x7)_0(+1)^-1(true) * x4::RefSll_t<x13> * x2::RefSll_t<x6> & null=null
+    |= ls(x14,x15)_0(+1)^-1(true) * ls(x1,x5)_0(+1)^-1(true) * ls(x15,x13)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x5,x8)_0(+1)^-1(true) * ls(x12,x4)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e01.tptp.smt2.sl14.ss
+checkent ls(x2,x12)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * x14::RefSll_t<x3> * x1::RefSll_t<x11> * x9::RefSll_t<x7> * x16::RefSll_t<x10> * x8::RefSll_t<x9> * x13::RefSll_t<x2> * x4::RefSll_t<x3> * x11::RefSll_t<x8> * x6::RefSll_t<x16> * ls(x12,x16)_0(+1)^-1(true) * x5::RefSll_t<x1> * x3::RefSll_t<x10> * x7::RefSll_t<x1> * ls(x15,x12)_0(+1)^-1(true) & null=null
+    |= ls(x9,x7)_0(+1)^-1(true) * ls(x6,x16)_0(+1)^-1(true) * ls(x14,x3)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * ls(x13,x12)_0(+1)^-1(true) * ls(x15,x12)_0(+1)^-1(true) * ls(x12,x16)_0(+1)^-1(true) * ls(x3,x10)_0(+1)^-1(true) * ls(x16,x1)_0(+1)^-1(true) * ls(x7,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e02.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x4> * x8::RefSll_t<x14> * x2::RefSll_t<x11> * ls(x5,x15)_0(+1)^-1(true) * x14::RefSll_t<x1> * x12::RefSll_t<x11> * x13::RefSll_t<x1> * x9::RefSll_t<x11> * x16::RefSll_t<x14> * x1::RefSll_t<x2> * ls(x4,x15)_0(+1)^-1(true) * x7::RefSll_t<x11> * x10::RefSll_t<x6> * ls(x6,x5)_0(+1)^-1(true) * x11::RefSll_t<x1> * x15::RefSll_t<x6> & null=null
+    |= ls(x13,x1)_0(+1)^-1(true) * ls(x12,x11)_0(+1)^-1(true) * ls(x8,x14)_0(+1)^-1(true) * ls(x16,x14)_0(+1)^-1(true) * ls(x3,x15)_0(+1)^-1(true) * ls(x2,x11)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x14,x1)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x10,x15)_0(+1)^-1(true) * ls(x7,x2)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-16-e03.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x5> * x6::RefSll_t<x2> * ls(x8,x2)_0(+1)^-1(true) * x14::RefSll_t<x15> * x13::RefSll_t<x11> * x15::RefSll_t<x4> * ls(x2,x9)_0(+1)^-1(true) * x10::RefSll_t<x5> * x11::RefSll_t<x3> * x9::RefSll_t<x16> * ls(x5,x13)_0(+1)^-1(true) * x4::RefSll_t<x9> * x1::RefSll_t<x3> * x12::RefSll_t<x13> * ls(x16,x9)_0(+1)^-1(true) * x7::RefSll_t<x1> & null=null
+    |= ls(x6,x2)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) * ls(x8,x2)_0(+1)^-1(true) * ls(x11,x3)_0(+1)^-1(true) * ls(x2,x9)_0(+1)^-1(true) * ls(x7,x1)_0(+1)^-1(true) * ls(x16,x9)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x14,x16)_0(+1)^-1(true) * ls(x1,x3)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-16-e04.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x3> * x9::RefSll_t<x15> * x13::RefSll_t<x16> * x6::RefSll_t<x12> * ls(x10,x11)_0(+1)^-1(true) * x4::RefSll_t<x11> * x11::RefSll_t<x7> * ls(x5,x6)_0(+1)^-1(true) * x8::RefSll_t<x3> * x16::RefSll_t<x8> * ls(x1,x14)_0(+1)^-1(true) * x14::RefSll_t<x1> * x3::RefSll_t<x7> * x15::RefSll_t<x12> * ls(x7,x16)_0(+1)^-1(true) * x12::RefSll_t<x5> & null=null
+    |= ls(x6,x12)_0(+1)^-1(true) * ls(x1,x14)_0(+1)^-1(true) * ls(x13,x16)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * ls(x9,x15)_0(+1)^-1(true) * ls(x14,x1)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-16-e05.tptp.smt2.sl14.ss
+checkent ls(x8,x12)_0(+1)^-1(true) * x3::RefSll_t<x10> * ls(x13,x5)_0(+1)^-1(true) * x14::RefSll_t<x5> * ls(x5,x15)_0(+1)^-1(true) * ls(x7,x16)_0(+1)^-1(true) * x11::RefSll_t<x1> * x9::RefSll_t<x16> * x12::RefSll_t<x9> * ls(x16,x3)_0(+1)^-1(true) * x15::RefSll_t<x16> * x2::RefSll_t<x10> * ls(x4,x6)_0(+1)^-1(true) * x10::RefSll_t<x9> * x6::RefSll_t<x9> * x1::RefSll_t<x8> & null=null
+    |= ls(x2,x10)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x14,x5)_0(+1)^-1(true) * ls(x7,x16)_0(+1)^-1(true) * ls(x11,x16)_0(+1)^-1(true) * ls(x5,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e06.tptp.smt2.sl14.ss
+checkent x10::RefSll_t<x15> * x4::RefSll_t<x12> * x7::RefSll_t<x3> * x5::RefSll_t<x13> * ls(x6,x3)_0(+1)^-1(true) * x16::RefSll_t<x4> * x13::RefSll_t<x9> * ls(x11,x12)_0(+1)^-1(true) * x12::RefSll_t<x7> * x14::RefSll_t<x6> * x9::RefSll_t<x8> * x15::RefSll_t<x13> * x1::RefSll_t<x3> * x2::RefSll_t<x8> * ls(x8,x5)_0(+1)^-1(true) * ls(x3,x14)_0(+1)^-1(true) & null=null
+    |= ls(x10,x13)_0(+1)^-1(true) * ls(x16,x12)_0(+1)^-1(true) * ls(x11,x7)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x7,x3)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x2,x5)_0(+1)^-1(true) * ls(x5,x8)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-16-e07.tptp.smt2.sl14.ss
+checkent ls(x15,x7)_0(+1)^-1(true) * x11::RefSll_t<x2> * x13::RefSll_t<x12> * ls(x5,x14)_0(+1)^-1(true) * x6::RefSll_t<x16> * x10::RefSll_t<x16> * x16::RefSll_t<x9> * x8::RefSll_t<x15> * ls(x3,x13)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * x12::RefSll_t<x16> * ls(x9,x7)_0(+1)^-1(true) * x4::RefSll_t<x10> * x14::RefSll_t<x11> * x1::RefSll_t<x6> * x7::RefSll_t<x14> & null=null
+    |= ls(x8,x7)_0(+1)^-1(true) * ls(x4,x10)_0(+1)^-1(true) * ls(x5,x11)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x12,x16)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x10,x16)_0(+1)^-1(true) * ls(x11,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e08.tptp.smt2.sl14.ss
+checkent ls(x14,x9)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * ls(x3,x2)_0(+1)^-1(true) * x1::RefSll_t<x4> * x13::RefSll_t<x15> * x8::RefSll_t<x9> * x2::RefSll_t<x1> * x11::RefSll_t<x2> * x10::RefSll_t<x11> * ls(x12,x3)_0(+1)^-1(true) * x7::RefSll_t<x1> * ls(x4,x9)_0(+1)^-1(true) * x15::RefSll_t<x7> * ls(x6,x15)_0(+1)^-1(true) * x16::RefSll_t<x1> * x5::RefSll_t<x3> & null=null
+    |= ls(x14,x9)_0(+1)^-1(true) * ls(x16,x1)_0(+1)^-1(true) * ls(x6,x15)_0(+1)^-1(true) * ls(x5,x3)_0(+1)^-1(true) * ls(x13,x15)_0(+1)^-1(true) * ls(x12,x1)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x15,x2)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e09.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x15> * x13::RefSll_t<x14> * x2::RefSll_t<x7> * x15::RefSll_t<x9> * ls(x16,x5)_0(+1)^-1(true) * x11::RefSll_t<x6> * ls(x9,x5)_0(+1)^-1(true) * x1::RefSll_t<x3> * ls(x12,x10)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) * x5::RefSll_t<x1> * x10::RefSll_t<x8> * x7::RefSll_t<x10> * x14::RefSll_t<x16> * ls(x6,x3)_0(+1)^-1(true) * x8::RefSll_t<x2> & null=null
+    |= ls(x7,x10)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * ls(x11,x15)_0(+1)^-1(true) * ls(x15,x3)_0(+1)^-1(true) * ls(x10,x7)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-16-e10.tptp.smt2.sl14.ss
+checkent x6::RefSll_t<x15> * x5::RefSll_t<x14> * x9::RefSll_t<x3> * ls(x12,x11)_0(+1)^-1(true) * x10::RefSll_t<x13> * x13::RefSll_t<x1> * x3::RefSll_t<x2> * ls(x16,x7)_0(+1)^-1(true) * ls(x14,x11)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * x11::RefSll_t<x15> * x8::RefSll_t<x1> * x15::RefSll_t<x5> * ls(x4,x14)_0(+1)^-1(true) * x7::RefSll_t<x4> * x2::RefSll_t<x15> & null=null
+    |= ls(x6,x15)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x9,x3)_0(+1)^-1(true) * ls(x16,x7)_0(+1)^-1(true) * ls(x3,x2)_0(+1)^-1(true) * ls(x2,x15)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * ls(x7,x4)_0(+1)^-1(true) * ls(x12,x11)_0(+1)^-1(true) * ls(x4,x11)_0(+1)^-1(true) * ls(x13,x14)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-17-e01.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x2> * x6::RefSll_t<x11> * x12::RefSll_t<x4> * ls(x9,x10)_0(+1)^-1(true) * x10::RefSll_t<x13> * x8::RefSll_t<x7> * x11::RefSll_t<x13> * x5::RefSll_t<x9> * x16::RefSll_t<x14> * x1::RefSll_t<x10> * x14::RefSll_t<x6> * x17::RefSll_t<x7> * ls(x2,x3)_0(+1)^-1(true) * x13::RefSll_t<x5> * x3::RefSll_t<x7> * x4::RefSll_t<x12> * ls(x15,x2)_0(+1)^-1(true) & null=null
+    |= ls(x16,x14)_0(+1)^-1(true) * ls(x1,x10)_0(+1)^-1(true) * ls(x15,x2)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x12,x4)_0(+1)^-1(true) * ls(x17,x7)_0(+1)^-1(true) * ls(x14,x6)_0(+1)^-1(true) * ls(x4,x12)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x8,x3)_0(+1)^-1(true) * ls(x13,x10)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e02.tptp.smt2.sl14.ss
+checkent x15::RefSll_t<x2> * ls(x10,x17)_0(+1)^-1(true) * x3::RefSll_t<x5> * ls(x11,x17)_0(+1)^-1(true) * x12::RefSll_t<x13> * x6::RefSll_t<x7> * x16::RefSll_t<x11> * x7::RefSll_t<x15> * ls(x1,x11)_0(+1)^-1(true) * x2::RefSll_t<x8> * x9::RefSll_t<x1> * x14::RefSll_t<x8> * ls(x17,x15)_0(+1)^-1(true) * ls(x13,x12)_0(+1)^-1(true) * x4::RefSll_t<x11> * x8::RefSll_t<x6> * x5::RefSll_t<x4> & null=null
+    |= ls(x7,x15)_0(+1)^-1(true) * ls(x16,x11)_0(+1)^-1(true) * ls(x9,x1)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) * ls(x10,x17)_0(+1)^-1(true) * ls(x3,x5)_0(+1)^-1(true) * ls(x14,x8)_0(+1)^-1(true) * ls(x5,x4)_0(+1)^-1(true) * ls(x1,x11)_0(+1)^-1(true) * ls(x13,x12)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-17-e03.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x12> * ls(x2,x15)_0(+1)^-1(true) * ls(x17,x13)_0(+1)^-1(true) * x11::RefSll_t<x4> * x5::RefSll_t<x17> * x3::RefSll_t<x11> * x8::RefSll_t<x6> * ls(x6,x5)_0(+1)^-1(true) * ls(x10,x4)_0(+1)^-1(true) * ls(x16,x2)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) * x1::RefSll_t<x17> * x12::RefSll_t<x15> * x4::RefSll_t<x14> * x13::RefSll_t<x8> * x9::RefSll_t<x5> * x15::RefSll_t<x13> & null=null
+    |= ls(x1,x17)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) * ls(x17,x13)_0(+1)^-1(true) * ls(x16,x15)_0(+1)^-1(true) * ls(x3,x4)_0(+1)^-1(true) * ls(x10,x17)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-17-e04.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x7> * ls(x9,x8)_0(+1)^-1(true) * x7::RefSll_t<x17> * ls(x8,x11)_0(+1)^-1(true) * x5::RefSll_t<x14> * ls(x12,x5)_0(+1)^-1(true) * x2::RefSll_t<x16> * ls(x16,x3)_0(+1)^-1(true) * ls(x15,x10)_0(+1)^-1(true) * x10::RefSll_t<x7> * x6::RefSll_t<x17> * x13::RefSll_t<x3> * ls(x17,x9)_0(+1)^-1(true) * ls(x11,x3)_0(+1)^-1(true) * ls(x4,x16)_0(+1)^-1(true) * x3::RefSll_t<x14> * x1::RefSll_t<x3> & null=null
+    |= ls(x1,x3)_0(+1)^-1(true) * ls(x2,x16)_0(+1)^-1(true) * ls(x13,x3)_0(+1)^-1(true) * ls(x12,x5)_0(+1)^-1(true) * ls(x4,x16)_0(+1)^-1(true) * ls(x16,x3)_0(+1)^-1(true) * ls(x6,x17)_0(+1)^-1(true) * ls(x15,x7)_0(+1)^-1(true) * ls(x5,x7)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e05.tptp.smt2.sl14.ss
+checkent x11::RefSll_t<x13> * ls(x10,x6)_0(+1)^-1(true) * x2::RefSll_t<x11> * x3::RefSll_t<x1> * ls(x4,x7)_0(+1)^-1(true) * x14::RefSll_t<x11> * x7::RefSll_t<x5> * ls(x6,x8)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * x15::RefSll_t<x4> * x13::RefSll_t<x16> * x1::RefSll_t<x14> * x9::RefSll_t<x4> * ls(x17,x2)_0(+1)^-1(true) * x16::RefSll_t<x9> * x5::RefSll_t<x6> * x12::RefSll_t<x1> & null=null
+    |= ls(x3,x1)_0(+1)^-1(true) * ls(x17,x11)_0(+1)^-1(true) * ls(x12,x14)_0(+1)^-1(true) * ls(x15,x4)_0(+1)^-1(true) * ls(x10,x6)_0(+1)^-1(true) * ls(x14,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e06.tptp.smt2.sl14.ss
+checkent x17::RefSll_t<x15> * ls(x6,x15)_0(+1)^-1(true) * x10::RefSll_t<x15> * ls(x5,x2)_0(+1)^-1(true) * x8::RefSll_t<x10> * x1::RefSll_t<x4> * x2::RefSll_t<x1> * x16::RefSll_t<x15> * x9::RefSll_t<x1> * ls(x15,x3)_0(+1)^-1(true) * ls(x3,x5)_0(+1)^-1(true) * x7::RefSll_t<x14> * x11::RefSll_t<x2> * x12::RefSll_t<x3> * x14::RefSll_t<x2> * x13::RefSll_t<x14> * x4::RefSll_t<x7> & null=null
+    |= ls(x13,x14)_0(+1)^-1(true) * ls(x11,x2)_0(+1)^-1(true) * ls(x17,x15)_0(+1)^-1(true) * ls(x16,x15)_0(+1)^-1(true) * ls(x8,x10)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x10,x15)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x12,x2)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e07.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x6> * x6::RefSll_t<x4> * ls(x8,x14)_0(+1)^-1(true) * x2::RefSll_t<x14> * x17::RefSll_t<x4> * ls(x9,x5)_0(+1)^-1(true) * x16::RefSll_t<x6> * x11::RefSll_t<x15> * x5::RefSll_t<x15> * x10::RefSll_t<x8> * x4::RefSll_t<x15> * ls(x14,x17)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * x3::RefSll_t<x16> * x15::RefSll_t<x13> * x12::RefSll_t<x4> * x13::RefSll_t<x9> & null=null
+    |= ls(x10,x8)_0(+1)^-1(true) * ls(x5,x15)_0(+1)^-1(true) * ls(x7,x6)_0(+1)^-1(true) * ls(x11,x15)_0(+1)^-1(true) * ls(x12,x4)_0(+1)^-1(true) * ls(x1,x14)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x3,x5)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e08.tptp.smt2.sl14.ss
+checkent x17::RefSll_t<x11> * x9::RefSll_t<x8> * x16::RefSll_t<x11> * x13::RefSll_t<x14> * ls(x14,x3)_0(+1)^-1(true) * x6::RefSll_t<x10> * ls(x1,x16)_0(+1)^-1(true) * x4::RefSll_t<x1> * ls(x8,x4)_0(+1)^-1(true) * x2::RefSll_t<x9> * x10::RefSll_t<x5> * x5::RefSll_t<x11> * x3::RefSll_t<x14> * x11::RefSll_t<x17> * x12::RefSll_t<x4> * x15::RefSll_t<x3> * x7::RefSll_t<x11> & null=null
+    |= ls(x12,x4)_0(+1)^-1(true) * ls(x15,x3)_0(+1)^-1(true) * ls(x6,x11)_0(+1)^-1(true) * ls(x7,x11)_0(+1)^-1(true) * ls(x13,x14)_0(+1)^-1(true) * ls(x14,x3)_0(+1)^-1(true) * ls(x2,x1)_0(+1)^-1(true) * ls(x1,x16)_0(+1)^-1(true) * ls(x17,x11)_0(+1)^-1(true) * ls(x16,x17)_0(+1)^-1(true) * ls(x3,x14)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-17-e09.tptp.smt2.sl14.ss
+checkent ls(x13,x5)_0(+1)^-1(true) * x17::RefSll_t<x8> * x9::RefSll_t<x5> * ls(x15,x3)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * x14::RefSll_t<x2> * x12::RefSll_t<x10> * x7::RefSll_t<x10> * x8::RefSll_t<x9> * x2::RefSll_t<x3> * x10::RefSll_t<x9> * x3::RefSll_t<x17> * x4::RefSll_t<x15> * x6::RefSll_t<x12> * x5::RefSll_t<x3> * x16::RefSll_t<x10> * x11::RefSll_t<x9> & null=null
+    |= ls(x13,x5)_0(+1)^-1(true) * ls(x6,x12)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x4,x15)_0(+1)^-1(true) * ls(x16,x10)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) * ls(x1,x2)_0(+1)^-1(true) * ls(x15,x3)_0(+1)^-1(true) * ls(x14,x3)_0(+1)^-1(true) * ls(x7,x8)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-17-e10.tptp.smt2.sl14.ss
+checkent x16::RefSll_t<x7> * x8::RefSll_t<x9> * x11::RefSll_t<x13> * ls(x14,x17)_0(+1)^-1(true) * ls(x4,x11)_0(+1)^-1(true) * x2::RefSll_t<x4> * ls(x3,x13)_0(+1)^-1(true) * x10::RefSll_t<x11> * x13::RefSll_t<x9> * x17::RefSll_t<x15> * x5::RefSll_t<x12> * ls(x7,x13)_0(+1)^-1(true) * x9::RefSll_t<x14> * x15::RefSll_t<x13> * x1::RefSll_t<x6> * x6::RefSll_t<x16> * x12::RefSll_t<x14> & null=null
+    |= ls(x8,x9)_0(+1)^-1(true) * ls(x9,x14)_0(+1)^-1(true) * ls(x2,x4)_0(+1)^-1(true) * ls(x1,x6)_0(+1)^-1(true) * ls(x4,x11)_0(+1)^-1(true) * ls(x3,x13)_0(+1)^-1(true) * ls(x6,x7)_0(+1)^-1(true) * ls(x5,x12)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x7,x13)_0(+1)^-1(true) * ls(x12,x9)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-18-e01.tptp.smt2.sl14.ss
+checkent ls(x14,x17)_0(+1)^-1(true) * x17::RefSll_t<x13> * x1::RefSll_t<x7> * x4::RefSll_t<x6> * x10::RefSll_t<x8> * x8::RefSll_t<x2> * ls(x3,x17)_0(+1)^-1(true) * x2::RefSll_t<x5> * x6::RefSll_t<x13> * x16::RefSll_t<x7> * x9::RefSll_t<x12> * x18::RefSll_t<x10> * ls(x7,x14)_0(+1)^-1(true) * ls(x12,x14)_0(+1)^-1(true) * x5::RefSll_t<x1> * x13::RefSll_t<x18> * x15::RefSll_t<x11> * ls(x11,x8)_0(+1)^-1(true) & null=null
+    |= ls(x9,x12)_0(+1)^-1(true) * ls(x18,x10)_0(+1)^-1(true) * ls(x15,x8)_0(+1)^-1(true) * ls(x16,x7)_0(+1)^-1(true) * ls(x4,x6)_0(+1)^-1(true) * ls(x12,x14)_0(+1)^-1(true) * ls(x3,x17)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x10,x18)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-18-e02.tptp.smt2.sl14.ss
+checkent ls(x8,x6)_0(+1)^-1(true) * x6::RefSll_t<x11> * ls(x15,x1)_0(+1)^-1(true) * x5::RefSll_t<x6> * x2::RefSll_t<x7> * ls(x11,x4)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * x13::RefSll_t<x14> * ls(x16,x18)_0(+1)^-1(true) * x7::RefSll_t<x14> * x3::RefSll_t<x18> * x4::RefSll_t<x13> * ls(x18,x15)_0(+1)^-1(true) * x12::RefSll_t<x16> * x10::RefSll_t<x4> * x14::RefSll_t<x10> * x17::RefSll_t<x4> * x1::RefSll_t<x16> & null=null
+    |= ls(x8,x6)_0(+1)^-1(true) * ls(x10,x4)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x15,x1)_0(+1)^-1(true) * ls(x3,x18)_0(+1)^-1(true) * ls(x2,x14)_0(+1)^-1(true) * ls(x12,x16)_0(+1)^-1(true) * ls(x17,x10)_0(+1)^-1(true) * ls(x1,x15)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e03.tptp.smt2.sl14.ss
+checkent ls(x15,x7)_0(+1)^-1(true) * x18::RefSll_t<x7> * ls(x3,x5)_0(+1)^-1(true) * x14::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * x17::RefSll_t<x6> * x13::RefSll_t<x5> * ls(x1,x7)_0(+1)^-1(true) * x5::RefSll_t<x3> * ls(x2,x11)_0(+1)^-1(true) * x7::RefSll_t<x13> * x8::RefSll_t<x3> * x16::RefSll_t<x7> * x11::RefSll_t<x10> * ls(x12,x18)_0(+1)^-1(true) * x10::RefSll_t<x1> * x9::RefSll_t<x10> & null=null
+    |= ls(x16,x7)_0(+1)^-1(true) * ls(x12,x18)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * ls(x17,x6)_0(+1)^-1(true) * ls(x14,x8)_0(+1)^-1(true) * ls(x8,x5)_0(+1)^-1(true) * ls(x2,x1)_0(+1)^-1(true) * ls(x18,x7)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x15,x7)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e04.tptp.smt2.sl14.ss
+checkent x16::RefSll_t<x9> * ls(x2,x1)_0(+1)^-1(true) * x17::RefSll_t<x8> * x1::RefSll_t<x4> * x5::RefSll_t<x13> * ls(x10,x17)_0(+1)^-1(true) * x12::RefSll_t<x15> * x3::RefSll_t<x12> * ls(x8,x13)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) * x15::RefSll_t<x12> * x7::RefSll_t<x16> * x11::RefSll_t<x10> * ls(x14,x5)_0(+1)^-1(true) * x6::RefSll_t<x2> * x9::RefSll_t<x1> * ls(x18,x7)_0(+1)^-1(true) * x13::RefSll_t<x9> & null=null
+    |= ls(x11,x10)_0(+1)^-1(true) * ls(x15,x12)_0(+1)^-1(true) * ls(x10,x13)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x18,x9)_0(+1)^-1(true) * ls(x12,x15)_0(+1)^-1(true) * ls(x14,x5)_0(+1)^-1(true) * ls(x6,x1)_0(+1)^-1(true) * ls(x5,x4)_0(+1)^-1(true) * ls(x4,x1)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e05.tptp.smt2.sl14.ss
+checkent x4::RefSll_t<x12> * x10::RefSll_t<x6> * ls(x1,x11)_0(+1)^-1(true) * ls(x18,x8)_0(+1)^-1(true) * x13::RefSll_t<x9> * ls(x14,x10)_0(+1)^-1(true) * x15::RefSll_t<x12> * ls(x7,x16)_0(+1)^-1(true) * x3::RefSll_t<x11> * ls(x16,x11)_0(+1)^-1(true) * x12::RefSll_t<x10> * x2::RefSll_t<x6> * x9::RefSll_t<x6> * ls(x5,x9)_0(+1)^-1(true) * x6::RefSll_t<x1> * ls(x17,x6)_0(+1)^-1(true) * x8::RefSll_t<x4> * x11::RefSll_t<x7> & null=null
+    |= ls(x16,x11)_0(+1)^-1(true) * ls(x15,x12)_0(+1)^-1(true) * ls(x17,x6)_0(+1)^-1(true) * ls(x13,x9)_0(+1)^-1(true) * ls(x14,x10)_0(+1)^-1(true) * ls(x3,x11)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * ls(x18,x6)_0(+1)^-1(true) * ls(x6,x16)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e06.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x7> * x17::RefSll_t<x3> * x13::RefSll_t<x10> * x15::RefSll_t<x2> * ls(x12,x8)_0(+1)^-1(true) * x7::RefSll_t<x4> * x6::RefSll_t<x3> * x16::RefSll_t<x1> * x8::RefSll_t<x6> * x1::RefSll_t<x4> * ls(x11,x5)_0(+1)^-1(true) * x2::RefSll_t<x12> * ls(x14,x17)_0(+1)^-1(true) * x10::RefSll_t<x18> * x4::RefSll_t<x11> * x3::RefSll_t<x7> * ls(x9,x6)_0(+1)^-1(true) * x18::RefSll_t<x5> & null=null
+    |= ls(x13,x10)_0(+1)^-1(true) * ls(x11,x5)_0(+1)^-1(true) * ls(x14,x17)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * ls(x10,x18)_0(+1)^-1(true) * ls(x16,x1)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * ls(x9,x7)_0(+1)^-1(true) * ls(x18,x11)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e07.tptp.smt2.sl14.ss
+checkent ls(x4,x8)_0(+1)^-1(true) * x9::RefSll_t<x13> * x11::RefSll_t<x5> * x15::RefSll_t<x2> * ls(x12,x9)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * x14::RefSll_t<x3> * ls(x5,x13)_0(+1)^-1(true) * x7::RefSll_t<x17> * x6::RefSll_t<x3> * x18::RefSll_t<x7> * x10::RefSll_t<x16> * x2::RefSll_t<x11> * x16::RefSll_t<x3> * ls(x17,x1)_0(+1)^-1(true) * x8::RefSll_t<x17> * x1::RefSll_t<x4> * ls(x3,x14)_0(+1)^-1(true) & null=null
+    |= ls(x8,x17)_0(+1)^-1(true) * ls(x14,x3)_0(+1)^-1(true) * ls(x15,x11)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x10,x16)_0(+1)^-1(true) * ls(x16,x14)_0(+1)^-1(true) * ls(x18,x8)_0(+1)^-1(true) * ls(x12,x5)_0(+1)^-1(true) * ls(x11,x13)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e08.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x5> * ls(x3,x17)_0(+1)^-1(true) * x16::RefSll_t<x10> * x6::RefSll_t<x10> * ls(x12,x11)_0(+1)^-1(true) * x10::RefSll_t<x11> * ls(x14,x8)_0(+1)^-1(true) * x18::RefSll_t<x10> * x7::RefSll_t<x14> * x2::RefSll_t<x18> * x8::RefSll_t<x7> * ls(x13,x5)_0(+1)^-1(true) * x15::RefSll_t<x4> * ls(x17,x5)_0(+1)^-1(true) * x5::RefSll_t<x14> * ls(x11,x10)_0(+1)^-1(true) * x9::RefSll_t<x17> * ls(x4,x5)_0(+1)^-1(true) & null=null
+    |= ls(x15,x4)_0(+1)^-1(true) * ls(x13,x5)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) * ls(x6,x10)_0(+1)^-1(true) * ls(x3,x17)_0(+1)^-1(true) * ls(x2,x18)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x18,x10)_0(+1)^-1(true) * ls(x4,x5)_0(+1)^-1(true) * ls(x16,x11)_0(+1)^-1(true) * ls(x9,x5)_0(+1)^-1(true) * ls(x1,x7)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e09.tptp.smt2.sl14.ss
+checkent ls(x8,x18)_0(+1)^-1(true) * x16::RefSll_t<x14> * x1::RefSll_t<x17> * ls(x7,x9)_0(+1)^-1(true) * x4::RefSll_t<x3> * x10::RefSll_t<x5> * x13::RefSll_t<x2> * x18::RefSll_t<x1> * ls(x15,x8)_0(+1)^-1(true) * x2::RefSll_t<x9> * x9::RefSll_t<x1> * ls(x17,x4)_0(+1)^-1(true) * x3::RefSll_t<x8> * x6::RefSll_t<x17> * ls(x5,x10)_0(+1)^-1(true) * x12::RefSll_t<x8> * x14::RefSll_t<x9> * x11::RefSll_t<x3> & null=null
+    |= ls(x7,x9)_0(+1)^-1(true) * ls(x12,x8)_0(+1)^-1(true) * ls(x6,x17)_0(+1)^-1(true) * ls(x17,x4)_0(+1)^-1(true) * ls(x15,x8)_0(+1)^-1(true) * ls(x13,x2)_0(+1)^-1(true) * ls(x11,x3)_0(+1)^-1(true) * ls(x2,x9)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) * ls(x16,x1)_0(+1)^-1(true) * ls(x5,x10)_0(+1)^-1(true) * ls(x4,x17)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-18-e10.tptp.smt2.sl14.ss
+checkent x18::RefSll_t<x4> * ls(x11,x18)_0(+1)^-1(true) * x14::RefSll_t<x5> * x6::RefSll_t<x18> * x8::RefSll_t<x1> * x15::RefSll_t<x9> * x16::RefSll_t<x2> * x2::RefSll_t<x15> * x5::RefSll_t<x17> * ls(x10,x17)_0(+1)^-1(true) * x4::RefSll_t<x17> * x1::RefSll_t<x10> * x9::RefSll_t<x6> * x12::RefSll_t<x3> * x17::RefSll_t<x18> * x3::RefSll_t<x12> * ls(x13,x15)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) & null=null
+    |= ls(x13,x15)_0(+1)^-1(true) * ls(x12,x3)_0(+1)^-1(true) * ls(x11,x18)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x16,x2)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * ls(x14,x17)_0(+1)^-1(true) * ls(x1,x18)_0(+1)^-1(true) * ls(x2,x18)_0(+1)^-1(true) * ls(x18,x17)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-19-e01.tptp.smt2.sl14.ss
+checkent ls(x6,x15)_0(+1)^-1(true) * ls(x4,x2)_0(+1)^-1(true) * x19::RefSll_t<x13> * x8::RefSll_t<x9> * x5::RefSll_t<x2> * x15::RefSll_t<x13> * x3::RefSll_t<x4> * x11::RefSll_t<x15> * x16::RefSll_t<x5> * x18::RefSll_t<x4> * x9::RefSll_t<x1> * x2::RefSll_t<x8> * x17::RefSll_t<x2> * ls(x1,x3)_0(+1)^-1(true) * ls(x14,x7)_0(+1)^-1(true) * x10::RefSll_t<x1> * x7::RefSll_t<x18> * x12::RefSll_t<x13> * ls(x13,x9)_0(+1)^-1(true) & null=null
+    |= ls(x10,x1)_0(+1)^-1(true) * ls(x11,x15)_0(+1)^-1(true) * ls(x14,x18)_0(+1)^-1(true) * ls(x18,x4)_0(+1)^-1(true) * ls(x4,x2)_0(+1)^-1(true) * ls(x6,x13)_0(+1)^-1(true) * ls(x19,x13)_0(+1)^-1(true) * ls(x17,x2)_0(+1)^-1(true) * ls(x12,x9)_0(+1)^-1(true) * ls(x16,x4)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e02.tptp.smt2.sl14.ss
+checkent ls(x6,x13)_0(+1)^-1(true) * x8::RefSll_t<x1> * x7::RefSll_t<x16> * x17::RefSll_t<x1> * ls(x11,x19)_0(+1)^-1(true) * x16::RefSll_t<x11> * x2::RefSll_t<x5> * x15::RefSll_t<x7> * ls(x5,x19)_0(+1)^-1(true) * ls(x19,x12)_0(+1)^-1(true) * x9::RefSll_t<x14> * x18::RefSll_t<x11> * ls(x4,x16)_0(+1)^-1(true) * x13::RefSll_t<x2> * x14::RefSll_t<x10> * x3::RefSll_t<x17> * x10::RefSll_t<x5> * x12::RefSll_t<x14> * x1::RefSll_t<x5> & null=null
+    |= ls(x8,x1)_0(+1)^-1(true) * ls(x9,x14)_0(+1)^-1(true) * ls(x6,x2)_0(+1)^-1(true) * ls(x2,x5)_0(+1)^-1(true) * ls(x3,x17)_0(+1)^-1(true) * ls(x17,x5)_0(+1)^-1(true) * ls(x15,x16)_0(+1)^-1(true) * ls(x4,x16)_0(+1)^-1(true) * ls(x16,x11)_0(+1)^-1(true) * ls(x18,x19)_0(+1)^-1(true) * ls(x19,x12)_0(+1)^-1(true) * ls(x12,x19)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e03.tptp.smt2.sl14.ss
+checkent x2::RefSll_t<x10> * ls(x9,x8)_0(+1)^-1(true) * x17::RefSll_t<x7> * x18::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * ls(x10,x11)_0(+1)^-1(true) * ls(x4,x17)_0(+1)^-1(true) * x7::RefSll_t<x17> * ls(x5,x13)_0(+1)^-1(true) * x19::RefSll_t<x17> * x12::RefSll_t<x11> * ls(x14,x17)_0(+1)^-1(true) * x6::RefSll_t<x1> * x3::RefSll_t<x7> * x13::RefSll_t<x6> * x15::RefSll_t<x13> * x11::RefSll_t<x13> * ls(x1,x8)_0(+1)^-1(true) * x16::RefSll_t<x18> & null=null
+    |= ls(x15,x13)_0(+1)^-1(true) * ls(x1,x8)_0(+1)^-1(true) * ls(x19,x17)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x2,x11)_0(+1)^-1(true) * ls(x16,x13)_0(+1)^-1(true) * ls(x4,x17)_0(+1)^-1(true) * ls(x9,x1)_0(+1)^-1(true) * ls(x14,x7)_0(+1)^-1(true) * ls(x7,x17)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e04.tptp.smt2.sl14.ss
+checkent x19::RefSll_t<x13> * ls(x1,x18)_0(+1)^-1(true) * x11::RefSll_t<x18> * x18::RefSll_t<x16> * ls(x16,x19)_0(+1)^-1(true) * x2::RefSll_t<x19> * ls(x4,x12)_0(+1)^-1(true) * x6::RefSll_t<x7> * ls(x10,x2)_0(+1)^-1(true) * x5::RefSll_t<x8> * x14::RefSll_t<x6> * x3::RefSll_t<x10> * x7::RefSll_t<x18> * x12::RefSll_t<x15> * x9::RefSll_t<x16> * x17::RefSll_t<x5> * x13::RefSll_t<x9> * x15::RefSll_t<x17> * x8::RefSll_t<x7> & null=null
+    |= ls(x4,x12)_0(+1)^-1(true) * ls(x14,x6)_0(+1)^-1(true) * ls(x12,x15)_0(+1)^-1(true) * ls(x11,x18)_0(+1)^-1(true) * ls(x15,x7)_0(+1)^-1(true) * ls(x6,x18)_0(+1)^-1(true) * ls(x1,x16)_0(+1)^-1(true) * ls(x16,x19)_0(+1)^-1(true) * ls(x3,x16)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e05.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x12> * x17::RefSll_t<x6> * ls(x1,x7)_0(+1)^-1(true) * ls(x16,x4)_0(+1)^-1(true) * x3::RefSll_t<x12> * x15::RefSll_t<x2> * x10::RefSll_t<x18> * x5::RefSll_t<x15> * x18::RefSll_t<x8> * x12::RefSll_t<x19> * x13::RefSll_t<x1> * ls(x6,x3)_0(+1)^-1(true) * x2::RefSll_t<x10> * x11::RefSll_t<x5> * ls(x19,x1)_0(+1)^-1(true) * x4::RefSll_t<x12> * x8::RefSll_t<x7> * ls(x7,x2)_0(+1)^-1(true) * x9::RefSll_t<x11> & null=null
+    |= ls(x16,x4)_0(+1)^-1(true) * ls(x4,x12)_0(+1)^-1(true) * ls(x8,x7)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * ls(x14,x12)_0(+1)^-1(true) * ls(x11,x2)_0(+1)^-1(true) * ls(x13,x1)_0(+1)^-1(true) * ls(x3,x8)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-19-e06.tptp.smt2.sl14.ss
+checkent x15::RefSll_t<x5> * x2::RefSll_t<x17> * ls(x13,x19)_0(+1)^-1(true) * x12::RefSll_t<x7> * ls(x6,x14)_0(+1)^-1(true) * x3::RefSll_t<x15> * x7::RefSll_t<x14> * x14::RefSll_t<x16> * x4::RefSll_t<x7> * ls(x16,x12)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * x10::RefSll_t<x3> * x11::RefSll_t<x18> * x18::RefSll_t<x6> * x19::RefSll_t<x2> * x9::RefSll_t<x4> * x1::RefSll_t<x5> * ls(x8,x4)_0(+1)^-1(true) * x5::RefSll_t<x15> & null=null
+    |= ls(x12,x7)_0(+1)^-1(true) * ls(x1,x5)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x11,x18)_0(+1)^-1(true) * ls(x18,x14)_0(+1)^-1(true) * ls(x13,x19)_0(+1)^-1(true) * ls(x8,x12)_0(+1)^-1(true) * ls(x5,x15)_0(+1)^-1(true) * ls(x19,x3)_0(+1)^-1(true) * ls(x10,x5)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-19-e07.tptp.smt2.sl14.ss
+checkent x19::RefSll_t<x14> * ls(x12,x2)_0(+1)^-1(true) * x15::RefSll_t<x17> * ls(x16,x11)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) * ls(x5,x10)_0(+1)^-1(true) * x4::RefSll_t<x8> * x9::RefSll_t<x19> * ls(x17,x11)_0(+1)^-1(true) * x14::RefSll_t<x16> * x7::RefSll_t<x19> * x11::RefSll_t<x8> * ls(x8,x13)_0(+1)^-1(true) * x2::RefSll_t<x19> * ls(x1,x18)_0(+1)^-1(true) * x13::RefSll_t<x8> * x6::RefSll_t<x18> * ls(x3,x1)_0(+1)^-1(true) * x18::RefSll_t<x8> & null=null
+    |= ls(x4,x8)_0(+1)^-1(true) * ls(x15,x17)_0(+1)^-1(true) * ls(x7,x19)_0(+1)^-1(true) * ls(x6,x18)_0(+1)^-1(true) * ls(x3,x1)_0(+1)^-1(true) * ls(x13,x8)_0(+1)^-1(true) * ls(x12,x19)_0(+1)^-1(true) * ls(x5,x10)_0(+1)^-1(true) * ls(x17,x11)_0(+1)^-1(true) * ls(x10,x8)_0(+1)^-1(true) * ls(x9,x13)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e08.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x17> * x6::RefSll_t<x11> * x8::RefSll_t<x18> * ls(x2,x15)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * x12::RefSll_t<x5> * x10::RefSll_t<x16> * ls(x1,x17)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x19,x13)_0(+1)^-1(true) * ls(x16,x15)_0(+1)^-1(true) * ls(x3,x17)_0(+1)^-1(true) * ls(x7,x14)_0(+1)^-1(true) * x15::RefSll_t<x12> * ls(x13,x3)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * x11::RefSll_t<x4> * x17::RefSll_t<x8> * x18::RefSll_t<x6> & null=null
+    |= ls(x1,x17)_0(+1)^-1(true) * ls(x19,x3)_0(+1)^-1(true) * ls(x18,x6)_0(+1)^-1(true) * ls(x9,x10)_0(+1)^-1(true) * ls(x10,x16)_0(+1)^-1(true) * ls(x2,x15)_0(+1)^-1(true) * ls(x16,x12)_0(+1)^-1(true) * ls(x7,x17)_0(+1)^-1(true) * ls(x12,x18)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-19-e09.tptp.smt2.sl14.ss
+checkent ls(x14,x18)_0(+1)^-1(true) * x3::RefSll_t<x7> * x9::RefSll_t<x4> * ls(x6,x1)_0(+1)^-1(true) * ls(x19,x3)_0(+1)^-1(true) * x5::RefSll_t<x11> * x4::RefSll_t<x13> * x18::RefSll_t<x19> * ls(x17,x3)_0(+1)^-1(true) * x1::RefSll_t<x18> * ls(x7,x10)_0(+1)^-1(true) * x11::RefSll_t<x2> * x15::RefSll_t<x3> * x16::RefSll_t<x4> * ls(x12,x6)_0(+1)^-1(true) * ls(x10,x3)_0(+1)^-1(true) * x13::RefSll_t<x19> * ls(x2,x3)_0(+1)^-1(true) * ls(x8,x14)_0(+1)^-1(true) & null=null
+    |= ls(x15,x3)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * ls(x12,x18)_0(+1)^-1(true) * ls(x9,x4)_0(+1)^-1(true) * ls(x16,x4)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x5,x2)_0(+1)^-1(true) * ls(x8,x18)_0(+1)^-1(true) * ls(x13,x19)_0(+1)^-1(true) * ls(x10,x3)_0(+1)^-1(true) * ls(x18,x3)_0(+1)^-1(true) * ls(x2,x10)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-19-e10.tptp.smt2.sl14.ss
+checkent x6::RefSll_t<x18> * x11::RefSll_t<x5> * x17::RefSll_t<x18> * ls(x2,x10)_0(+1)^-1(true) * ls(x14,x10)_0(+1)^-1(true) * x19::RefSll_t<x17> * x1::RefSll_t<x13> * x10::RefSll_t<x16> * x7::RefSll_t<x8> * x16::RefSll_t<x1> * x13::RefSll_t<x14> * x12::RefSll_t<x6> * x4::RefSll_t<x9> * x15::RefSll_t<x10> * x8::RefSll_t<x9> * x9::RefSll_t<x17> * x5::RefSll_t<x13> * x3::RefSll_t<x9> * x18::RefSll_t<x17> & null=null
+    |= ls(x12,x6)_0(+1)^-1(true) * ls(x2,x10)_0(+1)^-1(true) * ls(x11,x5)_0(+1)^-1(true) * ls(x1,x13)_0(+1)^-1(true) * ls(x15,x10)_0(+1)^-1(true) * ls(x4,x9)_0(+1)^-1(true) * ls(x19,x17)_0(+1)^-1(true) * ls(x7,x8)_0(+1)^-1(true) * ls(x8,x9)_0(+1)^-1(true) * ls(x6,x18)_0(+1)^-1(true) * ls(x3,x18)_0(+1)^-1(true) * ls(x18,x17)_0(+1)^-1(true) * ls(x5,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-20-e01.tptp.smt2.sl14.ss
+checkent x6::RefSll_t<x12> * ls(x15,x7)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) * x14::RefSll_t<x7> * x2::RefSll_t<x1> * ls(x12,x7)_0(+1)^-1(true) * x9::RefSll_t<x19> * x13::RefSll_t<x11> * x8::RefSll_t<x17> * x16::RefSll_t<x1> * x1::RefSll_t<x18> * x4::RefSll_t<x19> * x17::RefSll_t<x11> * x3::RefSll_t<x12> * x18::RefSll_t<x4> * ls(x20,x12)_0(+1)^-1(true) * x5::RefSll_t<x17> * x11::RefSll_t<x6> * x19::RefSll_t<x1> * ls(x7,x12)_0(+1)^-1(true) & null=null
+    |= ls(x15,x7)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x8,x17)_0(+1)^-1(true) * ls(x14,x7)_0(+1)^-1(true) * ls(x5,x17)_0(+1)^-1(true) * ls(x7,x12)_0(+1)^-1(true) * ls(x10,x1)_0(+1)^-1(true) * ls(x16,x1)_0(+1)^-1(true) * ls(x20,x12)_0(+1)^-1(true) * ls(x13,x11)_0(+1)^-1(true) * ls(x17,x11)_0(+1)^-1(true) * ls(x9,x1)_0(+1)^-1(true) * ls(x11,x7)_0(+1)^-1(true) * ls(x2,x19)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e02.tptp.smt2.sl14.ss
+checkent x14::RefSll_t<x13> * x18::RefSll_t<x1> * x15::RefSll_t<x3> * x20::RefSll_t<x9> * x6::RefSll_t<x5> * x8::RefSll_t<x15> * ls(x4,x3)_0(+1)^-1(true) * x10::RefSll_t<x8> * x1::RefSll_t<x19> * ls(x2,x9)_0(+1)^-1(true) * x12::RefSll_t<x7> * x17::RefSll_t<x4> * x16::RefSll_t<x17> * x9::RefSll_t<x11> * ls(x5,x16)_0(+1)^-1(true) * x13::RefSll_t<x18> * ls(x11,x7)_0(+1)^-1(true) * x7::RefSll_t<x18> * ls(x19,x14)_0(+1)^-1(true) * x3::RefSll_t<x17> & null=null
+    |= ls(x13,x18)_0(+1)^-1(true) * ls(x20,x9)_0(+1)^-1(true) * ls(x10,x8)_0(+1)^-1(true) * ls(x2,x7)_0(+1)^-1(true) * ls(x6,x17)_0(+1)^-1(true) * ls(x4,x3)_0(+1)^-1(true) * ls(x12,x13)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e03.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x19> * ls(x9,x6)_0(+1)^-1(true) * x17::RefSll_t<x3> * ls(x8,x4)_0(+1)^-1(true) * x5::RefSll_t<x20> * x4::RefSll_t<x8> * x13::RefSll_t<x11> * x16::RefSll_t<x17> * x3::RefSll_t<x11> * x15::RefSll_t<x3> * x20::RefSll_t<x18> * x18::RefSll_t<x12> * ls(x14,x11)_0(+1)^-1(true) * x2::RefSll_t<x10> * ls(x7,x10)_0(+1)^-1(true) * x10::RefSll_t<x5> * x6::RefSll_t<x7> * ls(x12,x19)_0(+1)^-1(true) * ls(x19,x15)_0(+1)^-1(true) * x11::RefSll_t<x20> & null=null
+    |= ls(x16,x17)_0(+1)^-1(true) * ls(x2,x10)_0(+1)^-1(true) * ls(x1,x19)_0(+1)^-1(true) * ls(x14,x11)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * ls(x4,x8)_0(+1)^-1(true) * ls(x13,x20)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e04.tptp.smt2.sl14.ss
+checkent x15::RefSll_t<x6> * ls(x5,x4)_0(+1)^-1(true) * x16::RefSll_t<x9> * x2::RefSll_t<x20> * x11::RefSll_t<x3> * x12::RefSll_t<x19> * x17::RefSll_t<x14> * x14::RefSll_t<x15> * x19::RefSll_t<x10> * x13::RefSll_t<x1> * ls(x8,x13)_0(+1)^-1(true) * x10::RefSll_t<x9> * x1::RefSll_t<x3> * ls(x9,x15)_0(+1)^-1(true) * x6::RefSll_t<x5> * ls(x7,x3)_0(+1)^-1(true) * x18::RefSll_t<x12> * ls(x20,x7)_0(+1)^-1(true) * x4::RefSll_t<x1> * ls(x3,x16)_0(+1)^-1(true) & null=null
+    |= ls(x8,x13)_0(+1)^-1(true) * ls(x18,x19)_0(+1)^-1(true) * ls(x2,x20)_0(+1)^-1(true) * ls(x11,x3)_0(+1)^-1(true) * ls(x20,x7)_0(+1)^-1(true) * ls(x19,x9)_0(+1)^-1(true) * ls(x7,x3)_0(+1)^-1(true) * ls(x13,x1)_0(+1)^-1(true) * ls(x9,x15)_0(+1)^-1(true) * ls(x17,x9)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e05.tptp.smt2.sl14.ss
+checkent ls(x18,x11)_0(+1)^-1(true) * ls(x2,x6)_0(+1)^-1(true) * x1::RefSll_t<x10> * x14::RefSll_t<x4> * x15::RefSll_t<x6> * x16::RefSll_t<x7> * x11::RefSll_t<x7> * x9::RefSll_t<x6> * ls(x7,x4)_0(+1)^-1(true) * x4::RefSll_t<x7> * ls(x13,x1)_0(+1)^-1(true) * ls(x20,x12)_0(+1)^-1(true) * x3::RefSll_t<x10> * ls(x6,x3)_0(+1)^-1(true) * ls(x19,x18)_0(+1)^-1(true) * x10::RefSll_t<x6> * ls(x8,x14)_0(+1)^-1(true) * x12::RefSll_t<x5> * x17::RefSll_t<x20> * x5::RefSll_t<x11> & null=null
+    |= ls(x2,x6)_0(+1)^-1(true) * ls(x16,x7)_0(+1)^-1(true) * ls(x17,x20)_0(+1)^-1(true) * ls(x20,x12)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x9,x3)_0(+1)^-1(true) * ls(x8,x4)_0(+1)^-1(true) * ls(x12,x11)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) * ls(x19,x11)_0(+1)^-1(true) * ls(x13,x10)_0(+1)^-1(true) * ls(x3,x6)_0(+1)^-1(true) * ls(x11,x4)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e06.tptp.smt2.sl14.ss
+checkent x16::RefSll_t<x2> * x2::RefSll_t<x16> * ls(x7,x18)_0(+1)^-1(true) * ls(x19,x13)_0(+1)^-1(true) * x18::RefSll_t<x14> * x17::RefSll_t<x10> * ls(x8,x1)_0(+1)^-1(true) * x4::RefSll_t<x16> * x1::RefSll_t<x20> * x20::RefSll_t<x17> * ls(x13,x4)_0(+1)^-1(true) * x14::RefSll_t<x20> * x11::RefSll_t<x18> * x15::RefSll_t<x6> * x9::RefSll_t<x2> * x10::RefSll_t<x6> * x3::RefSll_t<x2> * x12::RefSll_t<x20> * x5::RefSll_t<x3> * x6::RefSll_t<x4> & null=null
+    |= ls(x7,x18)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x11,x18)_0(+1)^-1(true) * ls(x9,x2)_0(+1)^-1(true) * ls(x8,x1)_0(+1)^-1(true) * ls(x1,x20)_0(+1)^-1(true) * ls(x12,x20)_0(+1)^-1(true) * ls(x19,x13)_0(+1)^-1(true) * ls(x18,x4)_0(+1)^-1(true) * ls(x13,x4)_0(+1)^-1(true) * ls(x5,x16)_0(+1)^-1(true) * ls(x4,x2)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-20-e07.tptp.smt2.sl14.ss
+checkent x20::RefSll_t<x1> * x16::RefSll_t<x10> * x1::RefSll_t<x3> * x2::RefSll_t<x3> * x8::RefSll_t<x1> * ls(x13,x9)_0(+1)^-1(true) * x12::RefSll_t<x8> * x18::RefSll_t<x19> * x15::RefSll_t<x7> * x3::RefSll_t<x16> * x19::RefSll_t<x9> * x10::RefSll_t<x8> * x17::RefSll_t<x3> * x11::RefSll_t<x19> * x6::RefSll_t<x13> * ls(x7,x13)_0(+1)^-1(true) * x14::RefSll_t<x5> * x9::RefSll_t<x2> * x4::RefSll_t<x6> * x5::RefSll_t<x18> & null=null
+    |= ls(x20,x1)_0(+1)^-1(true) * ls(x4,x13)_0(+1)^-1(true) * ls(x17,x3)_0(+1)^-1(true) * ls(x14,x18)_0(+1)^-1(true) * ls(x18,x19)_0(+1)^-1(true) * ls(x12,x8)_0(+1)^-1(true) * ls(x11,x9)_0(+1)^-1(true) * ls(x1,x3)_0(+1)^-1(true) * ls(x15,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-20-e08.tptp.smt2.sl14.ss
+checkent x16::RefSll_t<x19> * x17::RefSll_t<x13> * x12::RefSll_t<x8> * x20::RefSll_t<x1> * ls(x2,x8)_0(+1)^-1(true) * ls(x4,x8)_0(+1)^-1(true) * x18::RefSll_t<x12> * ls(x5,x15)_0(+1)^-1(true) * ls(x14,x20)_0(+1)^-1(true) * ls(x15,x6)_0(+1)^-1(true) * ls(x13,x7)_0(+1)^-1(true) * x19::RefSll_t<x1> * x1::RefSll_t<x12> * x8::RefSll_t<x7> * x9::RefSll_t<x11> * x7::RefSll_t<x10> * x3::RefSll_t<x7> * x6::RefSll_t<x3> * ls(x11,x17)_0(+1)^-1(true) * x10::RefSll_t<x17> & null=null
+    |= ls(x10,x17)_0(+1)^-1(true) * ls(x14,x20)_0(+1)^-1(true) * ls(x16,x19)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x2,x8)_0(+1)^-1(true) * ls(x18,x12)_0(+1)^-1(true) * ls(x20,x1)_0(+1)^-1(true) * ls(x6,x3)_0(+1)^-1(true) * ls(x3,x7)_0(+1)^-1(true) * ls(x9,x11)_0(+1)^-1(true) * ls(x19,x8)_0(+1)^-1(true) * ls(x4,x7)_0(+1)^-1(true) * ls(x11,x10)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/bolognesa-20-e09.tptp.smt2.sl14.ss
+checkent ls(x14,x13)_0(+1)^-1(true) * x17::RefSll_t<x14> * x16::RefSll_t<x10> * x20::RefSll_t<x16> * x3::RefSll_t<x18> * ls(x8,x17)_0(+1)^-1(true) * x6::RefSll_t<x2> * x9::RefSll_t<x18> * ls(x15,x8)_0(+1)^-1(true) * ls(x2,x15)_0(+1)^-1(true) * x4::RefSll_t<x17> * x19::RefSll_t<x1> * ls(x18,x5)_0(+1)^-1(true) * ls(x1,x4)_0(+1)^-1(true) * x10::RefSll_t<x2> * x13::RefSll_t<x10> * x5::RefSll_t<x20> * ls(x12,x16)_0(+1)^-1(true) * x11::RefSll_t<x9> * x7::RefSll_t<x8> & null=null
+    |= ls(x11,x9)_0(+1)^-1(true) * ls(x7,x8)_0(+1)^-1(true) * ls(x8,x17)_0(+1)^-1(true) * ls(x9,x18)_0(+1)^-1(true) * ls(x3,x16)_0(+1)^-1(true) * ls(x12,x10)_0(+1)^-1(true) * ls(x6,x2)_0(+1)^-1(true) * ls(x19,x8)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/bolognesa-20-e10.tptp.smt2.sl14.ss
+checkent x19::RefSll_t<x10> * x9::RefSll_t<x1> * x6::RefSll_t<x11> * x12::RefSll_t<x2> * x5::RefSll_t<x6> * x1::RefSll_t<x12> * x13::RefSll_t<x14> * x18::RefSll_t<x12> * x14::RefSll_t<x2> * ls(x7,x5)_0(+1)^-1(true) * x15::RefSll_t<x13> * x10::RefSll_t<x7> * ls(x3,x18)_0(+1)^-1(true) * ls(x8,x14)_0(+1)^-1(true) * x16::RefSll_t<x7> * x11::RefSll_t<x5> * x4::RefSll_t<x2> * x2::RefSll_t<x15> * ls(x17,x19)_0(+1)^-1(true) * x20::RefSll_t<x11> & null=null
+    |= ls(x8,x14)_0(+1)^-1(true) * ls(x14,x2)_0(+1)^-1(true) * ls(x16,x7)_0(+1)^-1(true) * ls(x4,x2)_0(+1)^-1(true) * ls(x20,x11)_0(+1)^-1(true) * ls(x17,x5)_0(+1)^-1(true) * ls(x5,x6)_0(+1)^-1(true) * ls(x6,x5)_0(+1)^-1(true) * ls(x3,x12)_0(+1)^-1(true) * ls(x9,x14)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e05.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x2> & null=null & null!=x1
+    |= x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-01-e07.tptp.smt2.sl14.ss
+checkent ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2
+    |= ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-01-e08.tptp.smt2.sl14.ss
+checkent ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3
+    |= x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-01-e09.tptp.smt2.sl14.ss
+checkent ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3
+    |= ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-01-e10.tptp.smt2.sl14.ss
+checkent ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2
+    |= ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-02-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e05.tptp.smt2.sl14.ss
+checkent x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3
+    |= x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-02-e07.tptp.smt2.sl14.ss
+checkent ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5
+    |= ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-02-e08.tptp.smt2.sl14.ss
+checkent ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7
+    |= x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-02-e09.tptp.smt2.sl14.ss
+checkent ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7
+    |= ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-02-e10.tptp.smt2.sl14.ss
+checkent ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5
+    |= ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-03-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e05.tptp.smt2.sl14.ss
+checkent x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5
+    |= x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-03-e07.tptp.smt2.sl14.ss
+checkent ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8
+    |= ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-03-e08.tptp.smt2.sl14.ss
+checkent ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11
+    |= x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-03-e09.tptp.smt2.sl14.ss
+checkent ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11
+    |= ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-03-e10.tptp.smt2.sl14.ss
+checkent ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8
+    |= ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-04-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e05.tptp.smt2.sl14.ss
+checkent x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7
+    |= x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-04-e07.tptp.smt2.sl14.ss
+checkent ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11
+    |= ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-04-e08.tptp.smt2.sl14.ss
+checkent ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15
+    |= x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-04-e09.tptp.smt2.sl14.ss
+checkent ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15
+    |= ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-04-e10.tptp.smt2.sl14.ss
+checkent ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11
+    |= ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-05-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e05.tptp.smt2.sl14.ss
+checkent x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9
+    |= x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-05-e07.tptp.smt2.sl14.ss
+checkent ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14
+    |= ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-05-e08.tptp.smt2.sl14.ss
+checkent ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19
+    |= x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-05-e09.tptp.smt2.sl14.ss
+checkent ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19
+    |= ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-05-e10.tptp.smt2.sl14.ss
+checkent ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14
+    |= ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-06-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e05.tptp.smt2.sl14.ss
+checkent x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11
+    |= x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-06-e07.tptp.smt2.sl14.ss
+checkent ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17
+    |= ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-06-e08.tptp.smt2.sl14.ss
+checkent ls(x22,x21)_0(+1)^-1(true) * x23::RefSll_t<x22> * x21::RefSll_t<x23> * ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x23 & x22!=x23
+    |= x24::RefSll_t<x23> * ls(x22,x24)_0(+1)^-1(true) * x23::RefSll_t<x22> * x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-06-e09.tptp.smt2.sl14.ss
+checkent ls(x23,x21)_0(+1)^-1(true) * x21::RefSll_t<x23> * ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x22 & x22!=x23
+    |= ls(x24,x21)_0(+1)^-1(true) * x21::RefSll_t<x24> * ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-06-e10.tptp.smt2.sl14.ss
+checkent ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17
+    |= ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-07-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e05.tptp.smt2.sl14.ss
+checkent x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13
+    |= x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-07-e07.tptp.smt2.sl14.ss
+checkent ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20
+    |= ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-07-e08.tptp.smt2.sl14.ss
+checkent ls(x26,x25)_0(+1)^-1(true) * x27::RefSll_t<x26> * x25::RefSll_t<x27> * ls(x22,x21)_0(+1)^-1(true) * x23::RefSll_t<x22> * x21::RefSll_t<x23> * ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x23 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x27 & x26!=x27
+    |= x28::RefSll_t<x27> * ls(x26,x28)_0(+1)^-1(true) * x27::RefSll_t<x26> * x24::RefSll_t<x23> * ls(x22,x24)_0(+1)^-1(true) * x23::RefSll_t<x22> * x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-07-e09.tptp.smt2.sl14.ss
+checkent ls(x27,x25)_0(+1)^-1(true) * x25::RefSll_t<x27> * ls(x23,x21)_0(+1)^-1(true) * x21::RefSll_t<x23> * ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x22 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x26 & x26!=x27
+    |= ls(x28,x25)_0(+1)^-1(true) * x25::RefSll_t<x28> * ls(x24,x21)_0(+1)^-1(true) * x21::RefSll_t<x24> * ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-07-e10.tptp.smt2.sl14.ss
+checkent ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20
+    |= ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-08-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e05.tptp.smt2.sl14.ss
+checkent x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15
+    |= x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-08-e07.tptp.smt2.sl14.ss
+checkent ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23
+    |= ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-08-e08.tptp.smt2.sl14.ss
+checkent ls(x30,x29)_0(+1)^-1(true) * x31::RefSll_t<x30> * x29::RefSll_t<x31> * ls(x26,x25)_0(+1)^-1(true) * x27::RefSll_t<x26> * x25::RefSll_t<x27> * ls(x22,x21)_0(+1)^-1(true) * x23::RefSll_t<x22> * x21::RefSll_t<x23> * ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x23 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x27 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x31 & x30!=x31
+    |= x32::RefSll_t<x31> * ls(x30,x32)_0(+1)^-1(true) * x31::RefSll_t<x30> * x28::RefSll_t<x27> * ls(x26,x28)_0(+1)^-1(true) * x27::RefSll_t<x26> * x24::RefSll_t<x23> * ls(x22,x24)_0(+1)^-1(true) * x23::RefSll_t<x22> * x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-08-e09.tptp.smt2.sl14.ss
+checkent ls(x31,x29)_0(+1)^-1(true) * x29::RefSll_t<x31> * ls(x27,x25)_0(+1)^-1(true) * x25::RefSll_t<x27> * ls(x23,x21)_0(+1)^-1(true) * x21::RefSll_t<x23> * ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x22 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x26 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x30 & x30!=x31
+    |= ls(x32,x29)_0(+1)^-1(true) * x29::RefSll_t<x32> * ls(x28,x25)_0(+1)^-1(true) * x25::RefSll_t<x28> * ls(x24,x21)_0(+1)^-1(true) * x21::RefSll_t<x24> * ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-08-e10.tptp.smt2.sl14.ss
+checkent ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23
+    |= ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-09-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15 & null!=x17
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16 & null!=x17 & null!=x18 & x17!=x18
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16 & null!=x17 & null!=x18 & x17!=x18
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e05.tptp.smt2.sl14.ss
+checkent x17::RefSll_t<x18> * x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15 & null!=x17
+    |= x17::RefSll_t<x18> * x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-09-e07.tptp.smt2.sl14.ss
+checkent ls(x25,x26)_0(+1)^-1(true) * x26::RefSll_t<x25> * ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23 & null!=x25 & null!=x26
+    |= ls(x27,x26)_0(+1)^-1(true) * x26::RefSll_t<x27> * ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-09-e08.tptp.smt2.sl14.ss
+checkent ls(x34,x33)_0(+1)^-1(true) * x35::RefSll_t<x34> * x33::RefSll_t<x35> * ls(x30,x29)_0(+1)^-1(true) * x31::RefSll_t<x30> * x29::RefSll_t<x31> * ls(x26,x25)_0(+1)^-1(true) * x27::RefSll_t<x26> * x25::RefSll_t<x27> * ls(x22,x21)_0(+1)^-1(true) * x23::RefSll_t<x22> * x21::RefSll_t<x23> * ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x23 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x27 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x31 & x30!=x31 & null!=x33 & null!=x34 & null!=x35 & x33!=x35 & x34!=x35
+    |= x36::RefSll_t<x35> * ls(x34,x36)_0(+1)^-1(true) * x35::RefSll_t<x34> * x32::RefSll_t<x31> * ls(x30,x32)_0(+1)^-1(true) * x31::RefSll_t<x30> * x28::RefSll_t<x27> * ls(x26,x28)_0(+1)^-1(true) * x27::RefSll_t<x26> * x24::RefSll_t<x23> * ls(x22,x24)_0(+1)^-1(true) * x23::RefSll_t<x22> * x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-09-e09.tptp.smt2.sl14.ss
+checkent ls(x35,x33)_0(+1)^-1(true) * x33::RefSll_t<x35> * ls(x31,x29)_0(+1)^-1(true) * x29::RefSll_t<x31> * ls(x27,x25)_0(+1)^-1(true) * x25::RefSll_t<x27> * ls(x23,x21)_0(+1)^-1(true) * x21::RefSll_t<x23> * ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x22 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x26 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x30 & x30!=x31 & null!=x33 & null!=x34 & null!=x35 & x33!=x34 & x34!=x35
+    |= ls(x36,x33)_0(+1)^-1(true) * x33::RefSll_t<x36> * ls(x32,x29)_0(+1)^-1(true) * x29::RefSll_t<x32> * ls(x28,x25)_0(+1)^-1(true) * x25::RefSll_t<x28> * ls(x24,x21)_0(+1)^-1(true) * x21::RefSll_t<x24> * ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-09-e10.tptp.smt2.sl14.ss
+checkent ls(x25,x26)_0(+1)^-1(true) * x26::RefSll_t<x25> * ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23 & null!=x25 & null!=x26
+    |= ls(x27,x26)_0(+1)^-1(true) * x26::RefSll_t<x27> * ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-10-e01.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15 & null!=x17 & null!=x19
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e02.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16 & null!=x17 & null!=x18 & x17!=x18 & null!=x19 & null!=x20 & x19!=x20
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e03.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2 & x1!=x2 & null!=x3 & null!=x4 & x3!=x4 & null!=x5 & null!=x6 & x5!=x6 & null!=x7 & null!=x8 & x7!=x8 & null!=x9 & null!=x10 & x9!=x10 & null!=x11 & null!=x12 & x11!=x12 & null!=x13 & null!=x14 & x13!=x14 & null!=x15 & null!=x16 & x15!=x16 & null!=x17 & null!=x18 & x17!=x18 & null!=x19 & null!=x20 & x19!=x20
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e05.tptp.smt2.sl14.ss
+checkent x19::RefSll_t<x20> * x17::RefSll_t<x18> * x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & null=null & null!=x1 & null!=x3 & null!=x5 & null!=x7 & null!=x9 & null!=x11 & null!=x13 & null!=x15 & null!=x17 & null!=x19
+    |= x19::RefSll_t<x20> * x17::RefSll_t<x18> * x15::RefSll_t<x16> * x13::RefSll_t<x14> * x11::RefSll_t<x12> * x9::RefSll_t<x10> * x7::RefSll_t<x8> * x5::RefSll_t<x6> * x3::RefSll_t<x4> * x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/clones-10-e07.tptp.smt2.sl14.ss
+checkent ls(x28,x29)_0(+1)^-1(true) * x29::RefSll_t<x28> * ls(x25,x26)_0(+1)^-1(true) * x26::RefSll_t<x25> * ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23 & null!=x25 & null!=x26 & null!=x28 & null!=x29
+    |= ls(x30,x29)_0(+1)^-1(true) * x29::RefSll_t<x30> * ls(x27,x26)_0(+1)^-1(true) * x26::RefSll_t<x27> * ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/clones-10-e08.tptp.smt2.sl14.ss
+checkent ls(x38,x37)_0(+1)^-1(true) * x39::RefSll_t<x38> * x37::RefSll_t<x39> * ls(x34,x33)_0(+1)^-1(true) * x35::RefSll_t<x34> * x33::RefSll_t<x35> * ls(x30,x29)_0(+1)^-1(true) * x31::RefSll_t<x30> * x29::RefSll_t<x31> * ls(x26,x25)_0(+1)^-1(true) * x27::RefSll_t<x26> * x25::RefSll_t<x27> * ls(x22,x21)_0(+1)^-1(true) * x23::RefSll_t<x22> * x21::RefSll_t<x23> * ls(x18,x17)_0(+1)^-1(true) * x19::RefSll_t<x18> * x17::RefSll_t<x19> * ls(x14,x13)_0(+1)^-1(true) * x15::RefSll_t<x14> * x13::RefSll_t<x15> * ls(x10,x9)_0(+1)^-1(true) * x11::RefSll_t<x10> * x9::RefSll_t<x11> * ls(x6,x5)_0(+1)^-1(true) * x7::RefSll_t<x6> * x5::RefSll_t<x7> * ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x7 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x11 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x15 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x19 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x23 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x27 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x31 & x30!=x31 & null!=x33 & null!=x34 & null!=x35 & x33!=x35 & x34!=x35 & null!=x37 & null!=x38 & null!=x39 & x37!=x39 & x38!=x39
+    |= x40::RefSll_t<x39> * ls(x38,x40)_0(+1)^-1(true) * x39::RefSll_t<x38> * x36::RefSll_t<x35> * ls(x34,x36)_0(+1)^-1(true) * x35::RefSll_t<x34> * x32::RefSll_t<x31> * ls(x30,x32)_0(+1)^-1(true) * x31::RefSll_t<x30> * x28::RefSll_t<x27> * ls(x26,x28)_0(+1)^-1(true) * x27::RefSll_t<x26> * x24::RefSll_t<x23> * ls(x22,x24)_0(+1)^-1(true) * x23::RefSll_t<x22> * x20::RefSll_t<x19> * ls(x18,x20)_0(+1)^-1(true) * x19::RefSll_t<x18> * x16::RefSll_t<x15> * ls(x14,x16)_0(+1)^-1(true) * x15::RefSll_t<x14> * x12::RefSll_t<x11> * ls(x10,x12)_0(+1)^-1(true) * x11::RefSll_t<x10> * x8::RefSll_t<x7> * ls(x6,x8)_0(+1)^-1(true) * x7::RefSll_t<x6> * x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/clones-10-e09.tptp.smt2.sl14.ss
+checkent ls(x39,x37)_0(+1)^-1(true) * x37::RefSll_t<x39> * ls(x35,x33)_0(+1)^-1(true) * x33::RefSll_t<x35> * ls(x31,x29)_0(+1)^-1(true) * x29::RefSll_t<x31> * ls(x27,x25)_0(+1)^-1(true) * x25::RefSll_t<x27> * ls(x23,x21)_0(+1)^-1(true) * x21::RefSll_t<x23> * ls(x19,x17)_0(+1)^-1(true) * x17::RefSll_t<x19> * ls(x15,x13)_0(+1)^-1(true) * x13::RefSll_t<x15> * ls(x11,x9)_0(+1)^-1(true) * x9::RefSll_t<x11> * ls(x7,x5)_0(+1)^-1(true) * x5::RefSll_t<x7> * ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3 & null!=x5 & null!=x6 & null!=x7 & x5!=x6 & x6!=x7 & null!=x9 & null!=x10 & null!=x11 & x9!=x10 & x10!=x11 & null!=x13 & null!=x14 & null!=x15 & x13!=x14 & x14!=x15 & null!=x17 & null!=x18 & null!=x19 & x17!=x18 & x18!=x19 & null!=x21 & null!=x22 & null!=x23 & x21!=x22 & x22!=x23 & null!=x25 & null!=x26 & null!=x27 & x25!=x26 & x26!=x27 & null!=x29 & null!=x30 & null!=x31 & x29!=x30 & x30!=x31 & null!=x33 & null!=x34 & null!=x35 & x33!=x34 & x34!=x35 & null!=x37 & null!=x38 & null!=x39 & x37!=x38 & x38!=x39
+    |= ls(x40,x37)_0(+1)^-1(true) * x37::RefSll_t<x40> * ls(x36,x33)_0(+1)^-1(true) * x33::RefSll_t<x36> * ls(x32,x29)_0(+1)^-1(true) * x29::RefSll_t<x32> * ls(x28,x25)_0(+1)^-1(true) * x25::RefSll_t<x28> * ls(x24,x21)_0(+1)^-1(true) * x21::RefSll_t<x24> * ls(x20,x17)_0(+1)^-1(true) * x17::RefSll_t<x20> * ls(x16,x13)_0(+1)^-1(true) * x13::RefSll_t<x16> * ls(x12,x9)_0(+1)^-1(true) * x9::RefSll_t<x12> * ls(x8,x5)_0(+1)^-1(true) * x5::RefSll_t<x8> * ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/clones-10-e10.tptp.smt2.sl14.ss
+checkent ls(x28,x29)_0(+1)^-1(true) * x29::RefSll_t<x28> * ls(x25,x26)_0(+1)^-1(true) * x26::RefSll_t<x25> * ls(x22,x23)_0(+1)^-1(true) * x23::RefSll_t<x22> * ls(x19,x20)_0(+1)^-1(true) * x20::RefSll_t<x19> * ls(x16,x17)_0(+1)^-1(true) * x17::RefSll_t<x16> * ls(x13,x14)_0(+1)^-1(true) * x14::RefSll_t<x13> * ls(x10,x11)_0(+1)^-1(true) * x11::RefSll_t<x10> * ls(x7,x8)_0(+1)^-1(true) * x8::RefSll_t<x7> * ls(x4,x5)_0(+1)^-1(true) * x5::RefSll_t<x4> * ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x4 & null!=x5 & null!=x7 & null!=x8 & null!=x10 & null!=x11 & null!=x13 & null!=x14 & null!=x16 & null!=x17 & null!=x19 & null!=x20 & null!=x22 & null!=x23 & null!=x25 & null!=x26 & null!=x28 & null!=x29
+    |= ls(x30,x29)_0(+1)^-1(true) * x29::RefSll_t<x30> * ls(x27,x26)_0(+1)^-1(true) * x26::RefSll_t<x27> * ls(x24,x23)_0(+1)^-1(true) * x23::RefSll_t<x24> * ls(x21,x20)_0(+1)^-1(true) * x20::RefSll_t<x21> * ls(x18,x17)_0(+1)^-1(true) * x17::RefSll_t<x18> * ls(x15,x14)_0(+1)^-1(true) * x14::RefSll_t<x15> * ls(x12,x11)_0(+1)^-1(true) * x11::RefSll_t<x12> * ls(x9,x8)_0(+1)^-1(true) * x8::RefSll_t<x9> * ls(x6,x5)_0(+1)^-1(true) * x5::RefSll_t<x6> * ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc01.smt2.sl14.ss
+checkent x_emp::RefSll_t<y_emp> * y_emp::RefSll_t<z_emp> & true
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc02.smt2.sl14.ss
+checkent x_emp::RefSll_t<y_emp> * ls(y_emp,w_emp)_0(+1)^-1(true) * w_emp::RefSll_t<z_emp> & true
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc03.smt2.sl14.ss
+checkent x_emp::RefSll_t<y_emp> * ls(y_emp,w_emp)_0(+1)^-1(true) * ls(w_emp,z_emp)_0(+1)^-1(true) * z_emp::RefSll_t<u_emp> * u_emp::RefSll_t<v_emp> * ls(v_emp,r_emp)_0(+1)^-1(true) * r_emp::RefSll_t<s_emp> & true
+    |= ls(x_emp,s_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc04.smt2.sl14.ss
+checkent x_emp::RefSll_t<y_emp> & true
+    |= ls(x_emp,y_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc05.smt2.sl14.ss
+checkent ls(y_emp,w_emp)_0(+1)^-1(true) & true
+    |= ls(y_emp,w_emp)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/ls-vc06.smt2.sl14.ss
+checkent ls(x_emp,y_emp)_0(+1)^-1(true) * ls(y_emp,z_emp)_0(+1)^-1(true) & true
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc07.smt2.sl14.ss
+checkent ls(x_emp,y_emp)_0(+1)^-1(true) * ls(y_emp,z_emp)_0(+1)^-1(true) * ls(z_emp,w_emp)_0(+1)^-1(true) & true
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) * ls(z_emp,w_emp)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/ls-vc08.smt2.sl14.ss
+checkent ls(x_emp,y_emp)_0(+1)^-1(true) * ls(y_emp,z_emp)_0(+1)^-1(true) & z_emp=null
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/ls-vc09.smt2.sl14.ss
+checkent ls(x_emp,y_emp)_0(+1)^-1(true) * ls(y_emp,z_emp)_0(+1)^-1(true) * z_emp::RefSll_t<t_emp> & true
+    |= ls(x_emp,z_emp)_0(+1)^-1(true) * z_emp::RefSll_t<t_emp> & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc01.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & const_1=const_1.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc02.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & const_1=const_1 & x1=x1.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc03.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc04.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= (exists flted_13,flted_14,flted_15,flted_16: ls(flted_16,flted_15)_0(+1)^-1(true) * ls(flted_14,flted_13)_0(+1)^-1(true) & flted_16=null & flted_15=null & flted_14=null & flted_13=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc05.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= (exists flted_11,flted_12: ls(flted_12,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc06.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= ls(x1,x1)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc07.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & null=null & const_1=const_1.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc08.tptp.smt2.sl14.ss
+checkent emp & null=null
+    |= emp & x1=x1.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc09.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x2,flted_12)_0(+1)^-1(true) * ls(x1,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null)
+    |= (exists flted_15,flted_16: ls(x1,flted_16)_0(+1)^-1(true) * ls(x2,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc10.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x1,flted_10)_0(+1)^-1(true) & flted_10=null & null=null)
+    |= (exists flted_14,flted_15,flted_16: ls(x1,flted_16)_0(+1)^-1(true) * ls(x1,x1)_0(+1)^-1(true) * ls(flted_15,flted_14)_0(+1)^-1(true) & flted_16=null & flted_15=null & flted_14=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc11.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x1,flted_10)_0(+1)^-1(true) & flted_10=null & null=null)
+    |= (exists flted_14,flted_15,flted_16: ls(flted_16,flted_15)_0(+1)^-1(true) * ls(x1,flted_14)_0(+1)^-1(true) & flted_16=null & flted_15=null & flted_14=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc12.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x1,flted_10)_0(+1)^-1(true) & flted_10=null & null=null)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc13.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x1,flted_10)_0(+1)^-1(true) & flted_10=null & null=null)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) * ls(x1,x1)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc14.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=const_1 & null!=x1
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc15.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=const_1 & null!=x1 & x1!=x2
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc16.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=const_1 & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc17.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=const_1 & null!=x1 & x1!=x2 & x1!=x3
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc18.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x3,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=const_1 & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_12: ls(x3,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc19.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc20.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1
+    |= emp & x2=x2.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc21.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x1,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc22.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1)
+    |= emp & x2=x2.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc23.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<flted_10> & flted_10=null & null=null & null!=x1)
+    |= (exists flted_13,flted_14: ls(flted_14,flted_13)_0(+1)^-1(true) & flted_14=null & flted_13=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc24.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<flted_10> & flted_10=null & null=null & null!=x1)
+    |= (exists flted_14,flted_15,flted_16: ls(flted_16,flted_15)_0(+1)^-1(true) * ls(x1,flted_14)_0(+1)^-1(true) & flted_16=null & flted_15=null & flted_14=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc25.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<flted_10> & flted_10=null & null=null & null!=x1)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc26.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x2> & null=null & null!=x1
+    |= x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc27.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & null!=x2
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc28.tptp.smt2.sl14.ss
+checkent (exists flted_10: x2::RefSll_t<flted_10> * ls(x1,x2)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & null!=x2)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc29.tptp.smt2.sl14.ss
+checkent ls(x1,x2)_0(+1)^-1(true) * x2::RefSll_t<x1> & null=null & null!=x1 & null!=x2
+    |= ls(x3,x2)_0(+1)^-1(true) * x2::RefSll_t<x3> & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc30.tptp.smt2.sl14.ss
+checkent ls(x1,x7)_0(+1)^-1(true) * x7::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x3 & null!=x4 & null!=x5 & null!=x6 & null!=x7 & x2!=x7 & x3!=x7 & x4!=x5 & x4!=x6
+    |= ls(x8,x7)_0(+1)^-1(true) * x7::RefSll_t<x8> & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc31.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x6> * ls(x2,x1)_0(+1)^-1(true) * x6::RefSll_t<x2> & null=null & null!=x1 & null!=x2 & null!=x3 & null!=x4 & null!=x5 & null!=x6 & x1!=x6 & x2!=x6 & x3!=x4 & x3!=x5
+    |= ls(x7,x6)_0(+1)^-1(true) * x6::RefSll_t<x7> & x6!=x7.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc32.tptp.smt2.sl14.ss
+checkent ls(x1,x4)_0(+1)^-1(true) * x4::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x3 & null!=x4 & x2!=x3 & x2!=x4
+    |= ls(x5,x4)_0(+1)^-1(true) * x4::RefSll_t<x5> & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc33.tptp.smt2.sl14.ss
+checkent ls(x2,x3)_0(+1)^-1(true) * x1::RefSll_t<x2> * x3::RefSll_t<x1> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x1!=x3
+    |= ls(x4,x3)_0(+1)^-1(true) * x3::RefSll_t<x4> & x3!=x4.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc34.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,x3)_0(+1)^-1(true) * ls(x4,flted_10)_0(+1)^-1(true) * x3::RefSll_t<x4> & flted_10=null & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x1!=x4 & x1!=x3 & x2!=x4 & x3!=x4)
+    |= (exists flted_12: ls(x4,flted_12)_0(+1)^-1(true) * x3::RefSll_t<x4> * ls(x2,x3)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc35.tptp.smt2.sl14.ss
+checkent ls(x3,x1)_0(+1)^-1(true) * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x2 & x2!=x3
+    |= ls(x4,x1)_0(+1)^-1(true) * x1::RefSll_t<x4> & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc36.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<flted_10> * ls(x2,x1)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3)
+    |= (exists flted_12: x1::RefSll_t<flted_12> * ls(x2,x1)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc37.tptp.smt2.sl14.ss
+checkent ls(x2,x1)_0(+1)^-1(true) * x3::RefSll_t<x2> * x1::RefSll_t<x3> & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x3 & x2!=x3
+    |= x4::RefSll_t<x3> * ls(x2,x4)_0(+1)^-1(true) * x3::RefSll_t<x2> & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc38.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<x2> * ls(x3,x1)_0(+1)^-1(true) * ls(x4,flted_10)_0(+1)^-1(true) * x2::RefSll_t<x4> & flted_10=null & null=null & null!=x1 & null!=x2 & null!=x3 & x1!=x4 & x1!=x2 & x2!=x4 & x3!=x4 & x2!=x3)
+    |= (exists flted_12: ls(x4,flted_12)_0(+1)^-1(true) * x2::RefSll_t<x4> * ls(x3,x2)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc39.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<x2> * ls(x3,flted_10)_0(+1)^-1(true) * x2::RefSll_t<x3> & flted_10=null & null=null & null!=x1 & null!=x2 & x1!=x2 & x1!=x3 & x2!=x3)
+    |= (exists flted_12: ls(x3,flted_12)_0(+1)^-1(true) & flted_12=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc40.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x1,flted_12)_0(+1)^-1(true) * ls(x3,flted_11)_0(+1)^-1(true) * x2::RefSll_t<x3> & flted_12=null & flted_11=null & null=null & null!=x1 & null!=x2 & x1!=x3 & x1!=x2 & x2!=x3)
+    |= (exists flted_15,flted_16: ls(x3,flted_16)_0(+1)^-1(true) * ls(x1,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc41.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,x1)_0(+1)^-1(true) * ls(x3,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x3> & flted_10=null & null=null & null!=x1 & null!=x2 & x1!=x3 & x2!=x3)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc42.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,x1)_0(+1)^-1(true) * ls(x3,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x3> & flted_10=null & null=null & null!=x1 & null!=x2 & x1!=x3 & x2!=x3)
+    |= (exists flted_12: ls(x3,flted_12)_0(+1)^-1(true) * ls(x2,x3)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc43.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x1,flted_12)_0(+1)^-1(true) * ls(x3,flted_11)_0(+1)^-1(true) * x2::RefSll_t<x3> & flted_12=null & flted_11=null & null=null & null!=x1 & null!=x2 & x1!=x3 & x2!=x3 & x1!=x2)
+    |= (exists flted_15,flted_16: ls(x1,flted_16)_0(+1)^-1(true) * ls(x3,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc44.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x3,flted_12)_0(+1)^-1(true) * ls(x4,flted_11)_0(+1)^-1(true) * x1::RefSll_t<x4> * x2::RefSll_t<x3> & flted_12=null & flted_11=null & null=null & null!=x1 & null!=x2 & x1!=x3 & x2!=x3 & x1!=x2 & x1!=x4 & x2!=x4)
+    |= (exists flted_15,flted_16: ls(x2,flted_16)_0(+1)^-1(true) * ls(x1,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc45.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x3,flted_10)_0(+1)^-1(true) * x2::RefSll_t<x3> & flted_10=null & null=null & null!=x1 & null!=x2 & x2!=x3 & x1!=x4 & x1!=x2 & x2!=x4)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc46.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x3,flted_10)_0(+1)^-1(true) * x2::RefSll_t<x3> & flted_10=null & null=null & null!=x1 & null!=x2 & x2!=x3 & x1!=x4 & x2!=x4 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc47.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & x1!=x2
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc48.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x2,flted_12)_0(+1)^-1(true) * ls(x1,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_15,flted_16: ls(x1,flted_16)_0(+1)^-1(true) * ls(x2,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc49.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x2,flted_12)_0(+1)^-1(true) * ls(x1,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_14: ls(x2,flted_14)_0(+1)^-1(true) & flted_14=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc50.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<x2> * ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc51.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc52.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x4,flted_12)_0(+1)^-1(true) * ls(x3,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_15,flted_16: ls(x3,flted_16)_0(+1)^-1(true) * ls(x4,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc53.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x3,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x3,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc54.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x3,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= emp & x3=x3.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc55.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc56.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc57.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x3,flted_12)_0(+1)^-1(true) * ls(x1,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_14: ls(x1,flted_14)_0(+1)^-1(true) & flted_14=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc58.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x4,flted_12)_0(+1)^-1(true) * ls(x3,flted_11)_0(+1)^-1(true) & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_15,flted_16: ls(x3,flted_16)_0(+1)^-1(true) * ls(x4,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc59.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x4,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_12: ls(x4,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc60.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc61.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc62.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & x1!=x2 & x1!=x3 & x2!=x3
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc63.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2 & x1!=x3 & x2!=x3)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc64.tptp.smt2.sl14.ss
+checkent emp & null=null & null!=x1 & x1!=x2 & x2!=x3
+    |= emp & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc65.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2 & x2!=x3)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc66.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc67.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x1,flted_12)_0(+1)^-1(true) & flted_12=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc68.tptp.smt2.sl14.ss
+checkent (exists flted_10: ls(x2,flted_10)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_10=null & null=null & null!=x1 & x1!=x2)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc69.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<x3> * ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= emp & x2=x2.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc70.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x3,flted_12)_0(+1)^-1(true) * ls(x2,flted_11)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_14: ls(x2,flted_14)_0(+1)^-1(true) * x1::RefSll_t<x2> * ls(x1,x1)_0(+1)^-1(true) & flted_14=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc71.tptp.smt2.sl14.ss
+checkent ls(x2,x3)_0(+1)^-1(true) * x1::RefSll_t<x2> & null=null & null!=x1 & x1!=x2 & x1!=x3
+    |= ls(x1,x3)_0(+1)^-1(true) & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc72.tptp.smt2.sl14.ss
+checkent ls(x2,x3)_0(+1)^-1(true) * x1::RefSll_t<x2> & null=null & null!=x1 & x1!=x2 & x1!=x3
+    |= ls(x2,x3)_0(+1)^-1(true) & true.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc73.tptp.smt2.sl14.ss
+checkent ls(x2,x3)_0(+1)^-1(true) * x1::RefSll_t<x2> & null=null & null!=x1 & x1!=x2 & x1!=x3
+    |= ls(x2,x3)_0(+1)^-1(true) & x3=x3.
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc74.tptp.smt2.sl14.ss
+checkent (exists flted_11,flted_12: ls(x2,flted_12)_0(+1)^-1(true) * ls(x3,flted_11)_0(+1)^-1(true) * x1::RefSll_t<x2> & flted_12=null & flted_11=null & null=null & null!=x1 & x1!=x2 & x1!=x3)
+    |= (exists flted_15,flted_16: ls(x1,flted_16)_0(+1)^-1(true) * ls(x3,flted_15)_0(+1)^-1(true) & flted_16=null & flted_15=null).
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc75.tptp.smt2.sl14.ss
+checkent x1::RefSll_t<x2> & null=null & null!=x1 & x1!=x2 & x1!=x3
+    |= x1::RefSll_t<x2> & true.
+unsat
+
+slcomp/qf_shls_entl/smallfoot-vc76.tptp.smt2.sl14.ss
+checkent (exists flted_10: x1::RefSll_t<x3> * ls(x2,flted_10)_0(+1)^-1(true) & flted_10=null & null=null & null!=x1 & x1!=x2 & x2!=x3 & x1!=x3)
+    |= (exists flted_12: ls(x2,flted_12)_0(+1)^-1(true) & flted_12=null).
+sat
+
+slcomp/qf_shls_entl/smallfoot-vc77.tptp.smt2.sl14.ss
+checkent emp & null=null & x1!=x2
+    |= emp & null=null & x2=x2.
+unsat

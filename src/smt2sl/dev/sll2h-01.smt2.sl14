@@ -1,0 +1,43 @@
+(set-logic QF_S)
+(set-info :source |
+Jens Katelaan, Harrsh, https://github.com/katelaan/harrsh/
+|)
+(set-info :smt-lib-version 2.6)
+(set-info :category "crafted")
+(set-info :status sat)
+(set-info :version "2018-06-18")
+(declare-sort RefSll2h_t 0)
+;; Declare cell type Sll2h_t
+(declare-fun next () (Field RefSll2h_t RefSll2h_t) )
+(declare-fun head () (Field RefSll2h_t RefSll2h_t) )
+
+;; IGNORE declare-heap 
+(define-fun sllpf ((?in RefSll2h_t) (?out RefSll2h_t) (?head RefSll2h_t) ) 
+        Space 
+    (tospace (or 
+            (and 
+                (= ?in ?out  )
+                (tobool emp ) 
+            )
+            (exists ((?u RefSll2h_t) ) 
+                (tobool (ssep 
+                    (pto ?in
+                        (sref (ref next ?u) (ref head ?head) ) 
+                    ) 
+                    (sllpf ?u ?out ?head) 
+                ) ) 
+            ) 
+        ) 
+    )
+)
+(define-fun sllh ((?in RefSll2h_t) (?out RefSll2h_t) ) 
+        Space 
+    (tospace (tobool (sllpf ?in ?out ?in) )
+    )
+)
+(check-sat)
+(declare-fun x0 () RefSll2h_t)
+
+(assert (tobool (sllh x0 nil ) )
+ )
+(check-sat)

@@ -1,0 +1,8 @@
+
+1. smtlib_lex.mll: add new TOKEN
+2. smtlib_syntax.ml
+  - add data structure
+  - pd_
+3. smtlib.parse.mly
+  - declare new token
+  - new parser rule

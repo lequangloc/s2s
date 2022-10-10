@@ -1,0 +1,13 @@
+
+data RefDll_t {
+  RefDll_t next;
+  RefDll_t prev;
+}.
+
+pred dll<fr:RefDll_t,pr:RefDll_t,nx:RefDll_t,bk:RefDll_t> ==
+ emp & fr = nx & bk = pr
+or (exists u: fr::RefDll_t<next = u,prev = pr> * dll(u,fr,nx,bk) & fr != nx & bk != pr).
+
+checkent[valid] dll(x0,null,null,y0) * dll(y0,null,null,z0) & x0 != y0
+         |- false.
+

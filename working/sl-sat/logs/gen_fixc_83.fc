@@ -1,0 +1,13 @@
+n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);n__rb:={[self_78,n_79,cl_80,bh_81,idx_82] -> [] -> []: (0=0 && ((n_79=0 && 0=0 && self_78<=0 && idx_82=0 || n_79=nl+nr+1 && n__rb(l,nl,flted_12_9,bhl,idx_62) && flted_12_9=0 && n__rb(r,nr,flted_12_8,bhr,idx_63) && flted_12_8=0 && flted_12_10=1 && self_78>0 && idx_82=idx_62+1) || n_79=nl+nr+1 && n__rb(l,nl,Anon_6,bhl,idx_64) && n__rb(r,nr,Anon_7,bhr,idx_65) && bhl=bhr && flted_13_5=0 && self_78>0 && idx_82=idx_64+1))
+};
+bottomupgen([n__rb], [1], SimHeur);

@@ -1,0 +1,47 @@
+open Globals
+open Gen
+open VarGen
+
+
+open Com
+open Aentry
+
+class node id d pid child_ids h s = object
+   val m_id: int = id
+   val m_data = d
+   val m_parent: int = pid
+   val mutable m_child: int list = child_ids
+   val m_height: int = h
+   val mutable m_status: nstatus = s
+     (* 0 : open (default); 1: unsat; 2: back-linked; 3: sat; 4: reduced *)
+
+  method get_id () = m_id
+  method get_parent_id () = m_parent
+  method get_child_ids () = m_child
+  method get_height () = m_height
+  method get_status () = m_status
+
+  method set_child_ids ids = m_child <- ids
+  method set_status s = m_status <- s
+
+  method string_of ()=
+   "id: " ^ string_of_int m_id ^ "\n" ^
+       "data: " ^ (m_data#string_of_short ()) ^ "\n" ^
+       "parent: " ^ (string_of_int m_parent) ^ "\n" ^
+       "children: " ^ (pr_list string_of_int) m_child ^ "\n" ^
+       "h:" ^ (string_of_int m_height) ^ "\n" ^
+    "status = " ^ (string_of_node_status m_status) ^ "\n"
+
+ method eval () =
+   let res =  m_data # eval () in
+   let () = if res == Out.UNSAT then
+     let () = m_status <- Nunsat in
+     ()
+   else if res == Out.SAT then
+     m_status <- Nsat
+   else ()
+   in
+   res
+
+end;;
+

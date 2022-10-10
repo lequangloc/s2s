@@ -1,0 +1,5 @@
+n__ls:={[in_16,len1_17,idx_18] -> [] -> []: (0=0 && (len1_17=0 && 0=0 && in_16<=0 && idx_18=0 || len1_17=1+len3_4 && n__ls(u_3,len3_4,idx_15) && in_16>0 && idx_18=idx_15+1))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[in_16,len1_17,idx_18] -> [] -> []: (0=0 && (len1_17=0 && 0=0 && in_16<=0 && idx_18=0 || len1_17=1+len3_4 && n__ls(u_3,len3_4,idx_15) && in_16>0 && idx_18=idx_15+1))
+};
+bottomupgen([n__ls], [1], SimHeur);

@@ -1,0 +1,11 @@
+n__dllnull:={[hd_25,p_26,l_27,idx_28] -> [] -> []: (0=0 && (0+l_27=0+1 && flted_7<=0 && hd_25>0 && idx_28=0 || k_6+1=0+l_27 && 1+1<=0+l_27 && n__dllnull(x_5,hd_25,k_6,idx_24) && hd_25>0 && idx_28=idx_24+1))
+};
+bottomupgen([n__dllnull], [1], SimHeur);n__dllnull:={[hd_25,p_26,l_27,idx_28] -> [] -> []: (0=0 && (0+l_27=0+1 && flted_7<=0 && hd_25>0 && idx_28=0 || k_6+1=0+l_27 && 1+1<=0+l_27 && n__dllnull(x_5,hd_25,k_6,idx_24) && hd_25>0 && idx_28=idx_24+1))
+};
+bottomupgen([n__dllnull], [1], SimHeur);n__dllnull:={[hd_25,p_26,l_27,idx_28] -> [] -> []: (0=0 && (0+l_27=0+1 && flted_7<=0 && hd_25>0 && idx_28=0 || k_6+1=0+l_27 && 1+1<=0+l_27 && n__dllnull(x_5,hd_25,k_6,idx_24) && hd_25>0 && idx_28=idx_24+1))
+};
+bottomupgen([n__dllnull], [1], SimHeur);n__dllnull:={[hd_25,p_26,l_27,idx_28] -> [] -> []: (0=0 && (0+l_27=0+1 && flted_7<=0 && hd_25>0 && idx_28=0 || k_6+1=0+l_27 && 1+1<=0+l_27 && n__dllnull(x_5,hd_25,k_6,idx_24) && hd_25>0 && idx_28=idx_24+1))
+};
+bottomupgen([n__dllnull], [1], SimHeur);n__dllnull:={[hd_25,p_26,l_27,idx_28] -> [] -> []: (0=0 && (0+l_27=0+1 && flted_7<=0 && hd_25>0 && idx_28=0 || k_6+1=0+l_27 && 1+1<=0+l_27 && n__dllnull(x_5,hd_25,k_6,idx_24) && hd_25>0 && idx_28=idx_24+1))
+};
+bottomupgen([n__dllnull], [1], SimHeur);

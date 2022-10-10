@@ -1,0 +1,169 @@
+n__dll:={[fr_24,bk_25,pr_26,nx_27,ma_28,mi_29,idx_30] -> [] -> []: (0=0 && (ma_28=mi_29 && 0=0 && fr_24=nx_27 && bk_25=pr_26 && idx_30=0 || 1+m1_8<ma_28 && n__dll(u_7,bk_25,fr_24,nx_27,m1_8,mi_29,idx_23) && fr_24>0 && ((fr_24<nx_27) || (fr_24>nx_27)) && idx_30=idx_23+1))
+};
+bottomupgen([n__dll], [1], SimHeur);n__dll:={[fr_24,bk_25,pr_26,nx_27,ma_28,mi_29,idx_30] -> [] -> []: (0=0 && (ma_28=mi_29 && 0=0 && fr_24=nx_27 && bk_25=pr_26 && idx_30=0 || 1+m1_8<ma_28 && n__dll(u_7,bk_25,fr_24,nx_27,m1_8,mi_29,idx_23) && fr_24>0 && ((fr_24<nx_27) || (fr_24>nx_27)) && idx_30=idx_23+1))
+};
+bottomupgen([n__dll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || 1+dt3_8<dt1_26 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);n__sdll:={[E_24,P_25,dt1_26,F_27,L_28,dt2_29,idx_30] -> [] -> []: (0=0 && (dt1_26=dt2_29 && 0=0 && E_24=F_27 && P_25=L_28 && idx_30=0 || dt1_26<1+dt3_8 && n__sdll(u_7,E_24,dt3_8,F_27,L_28,dt2_29,idx_23) && E_24>0 && idx_30=idx_23+1))
+};
+bottomupgen([n__sdll], [1], SimHeur);

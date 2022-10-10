@@ -1,0 +1,51 @@
+(set-logic QF_S)
+(set-info :source |
+  Zhilin Wu.
+  COMPSPEN benchmark.
+|)
+(set-info :smt-lib-version 2.6)
+(set-info :category "crafted")
+(set-info :status sat)
+(set-info :version "2018-06-21")
+(declare-sort RefSll_t 0)
+;; Declare cell type Sll_t
+(declare-fun next () (Field RefSll_t RefSll_t) )
+
+;; IGNORE declare-heap 
+(define-fun lls ((?in RefSll_t) (?len1 Int) (?out RefSll_t) (?len2 Int) ) 
+        Space 
+    (tospace (or 
+            (and 
+                (= ?in ?out  )
+                (= ?len1 ?len2  )
+                (tobool emp ) 
+            )
+            (exists ((?u RefSll_t) (?len3 Int) ) 
+                (and 
+                    (= ?len1 (+ ?len3 1)   )
+                    (tobool (ssep 
+                        (pto ?in
+                            (ref next ?u) 
+                        ) 
+                        (lls ?u ?len3 ?out ?len2) 
+                    ) ) 
+                )
+            ) 
+        ) 
+    )
+)
+(check-sat)
+(declare-fun y_emp () RefSll_t)
+(declare-fun w_emp () RefSll_t)
+(declare-fun z_emp () RefSll_t)
+(declare-fun n1 () Int)
+(declare-fun n2 () Int)
+
+(assert (tobool (ssep 
+        (pto y_emp
+            (ref next z_emp) 
+        ) 
+        (lls y_emp n1 w_emp n2) 
+    ) ) 
+ )
+(check-sat)

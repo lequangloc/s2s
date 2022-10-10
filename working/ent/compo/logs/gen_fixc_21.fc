@@ -1,0 +1,37 @@
+n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);n__ls:={[x_16,y_17,l_18,u_19,idx_20] -> [] -> []: (0=0 && (x_16>0 && l_18=u_19 && idx_20=0 ||  (exists (a_6: (exists (t_5:n__ls(t_5,y_17,a_6,u_19,idx_15) && a_6<=u_19 && l_18<=a_6 && x_16>0 && idx_20=idx_15+1)) )) ))
+};
+bottomupgen([n__ls], [1], SimHeur);

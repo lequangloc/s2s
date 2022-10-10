@@ -1,0 +1,3 @@
+#!/bin/sh
+
+./ksolver $1

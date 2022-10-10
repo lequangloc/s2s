@@ -1,0 +1,123 @@
+=================================
+#bug/sll-vc01.smt2.sl14
+
+
+=================================
+#bug/bolo-opt1
+
+Case1: valid
+ls(x1,x2) * ls(x2, x3) * x3|-> 
+  |- ls(x1, x3)  * x3|->
+
+==> RUNFOLD
+ ls(x2, x3) * x3|-> 
+  |- ls(x2, x3)  * x3|->
+
+x3|->  may be in fp
+
+Case2: invalid
+ls(x1,x2) * ls(x2, x3) * ls(x3, x4)
+  |- ls(x1, x3)  * ls(x3, x4)
+
+==> RUNFOLD WRONG - UNSOUND
+ ls(x2, x3) * ls(x3, x4)
+  |- ls(x2, x3)  * ls(x3, x4)
+
+
+=================================
+#bug/
+
+node-dll-rev-dll-entails-dll.smt2.sl14.sl 
+dll-spaghetti-existential.smt2.sl14.sl
+tll-ravioli-existential.smt2.sl14.sl 
+
+==================================
+#dll2-entails-dll2-rev.smt2.sl
+
+quantified, back link for sat
+
+ERROR: at _-1:0_-1:0
+Message: error 1: free variables [Anon_38,Anon_39,Anon_40,Anon_41] in pred def DLL2_plus_rev 
+Fatal error: exception Failure("error 1: free variables [Anon_38,Anon_39,Anon_40,Anon_41] in pred def DLL2_plus_rev ")
+
+
+==================================
+#bugs/node-dll-rev-dll-entails-dll.smt2.sl
+
+Wrong Result: Expect valid, got invalid
+
+==================================
+#bugs/tree-pp-rev-entails-tree-pp.smt2.sl
+tree-pp-entails-tree-pp-rev.smt2.sl 
+
+Wrong Result: Expect valid, got unknown
+
+
+==================================
+
+#ent-la.sl
+
+- to add matched LHS in a cycle into footprint
+- to support linear arith
+
+==================================
+#ex7-5
+
+back-link for ex quantified vars
+
+
+-----------------------
+
+==================================
+#Ex12:
+bugs/08
+
+Message: Cpure.type_decomp: no separation on pointer and arith
+Fatal error: exception Failure("Cpure.type_decomp: no separation on pointer and arith")
+
+
+==================================
+#bugs/dll-vc14 DONE
+
+after cycle, the LHS = false, should we link back?
+(exists flted_27: dll(x_emp,y_emp,flted_27,z_emp)_0^-1 & flted_27=null && x_emp!=z_emp)
+
+
+check substitution consistent with equality and neqNULL
+
+
+==================================
+#sf-vc02 DONE
+
+- remove RHS pure (RULE ASSUMPTION).
+   \pure_l \imply \pure_2. remove \pure_2
+
+if could not remove -> check invalid
+   bolo-10e01.ss
+
+ =R
+- not call Z3 DONE
+
+-EX-MIDDLE DONE
+  dll-vc05
+   before matching pred
+==================================
+# DONE
+
+To implement
+ - L=
+ - R=
+ s2/qf_shls_entl/smallfoot-vc20.tptp.smt2.sl14.sl
+checkent[unsat,false] emp & null=null & null!=x1
+    |= emp & x2=x2.
+
+==================================
+# bolo-1209 DONE
+
+to optimise:
+id: 114 --> id 116
+
+- left unfold: gen != for new points-to and points-to in
+fp. DONE
+- match pred: if neq/eq there: unfold it
+-ex-mid: prune unsat branches

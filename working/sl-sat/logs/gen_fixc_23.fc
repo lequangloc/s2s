@@ -1,0 +1,9 @@
+n__ll:={[self_20,n_21,idx_22] -> [] -> []: (0=0 && (0=0 && self_20<=0 && n_21=0 && idx_22=0 ||  (exists (q1: (exists (flted_18_3: (exists (q2:n__ll(q2,flted_18_3,idx_19) && 2+flted_18_3=n_21 && q1>0 && self_20>0 && idx_22=idx_19+1)) )) )) ))
+};
+bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_20,n_21,idx_22] -> [] -> []: (0=0 && (0=0 && self_20<=0 && n_21=0 && idx_22=0 ||  (exists (q1: (exists (flted_18_3: (exists (q2:n__ll(q2,flted_18_3,idx_19) && 2+flted_18_3=n_21 && q1>0 && self_20>0 && idx_22=idx_19+1)) )) )) ))
+};
+bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_20,n_21,idx_22] -> [] -> []: (0=0 && (0=0 && self_20<=0 && n_21=0 && idx_22=0 ||  (exists (q1: (exists (flted_18_3: (exists (q2:n__ll(q2,flted_18_3,idx_19) && 2+flted_18_3=n_21 && q1>0 && self_20>0 && idx_22=idx_19+1)) )) )) ))
+};
+bottomupgen([n__ll], [1], SimHeur);n__ll:={[self_20,n_21,idx_22] -> [] -> []: (0=0 && (0=0 && self_20<=0 && n_21=0 && idx_22=0 ||  (exists (q1: (exists (flted_18_3: (exists (q2:n__ll(q2,flted_18_3,idx_19) && 2+flted_18_3=n_21 && q1>0 && self_20>0 && idx_22=idx_19+1)) )) )) ))
+};
+bottomupgen([n__ll], [1], SimHeur);
