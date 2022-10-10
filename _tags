@@ -1,0 +1,12 @@
+<{src/kparser/parserBasic,src/kparser/parser_cmd,src/kparser/parser_util,smt_parser,smtlib_parse,src/fixpoint/parse_fix}.ml>: pp(camlp4of)
+<{benchmark,_build,examples,tests,src/smt2sl}/*.*>: -traverse
+<src/smt2sl/*>: not_hygienic
+<src>: include
+<src/smtlib>: include
+<src/core>: include
+<src/util>: include
+<src/fixpoint>: include
+<src/backend>: include
+<src/kil>: include
+<src/type>: include
+<src/kparser>: include
